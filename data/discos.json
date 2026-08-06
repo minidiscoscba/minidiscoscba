@@ -1,0 +1,29 @@
+[
+  {
+    "artista": "lali",
+    "album": "lali",
+
+    "nombreArtista": "Lali",
+    "nombreAlbum": "LALI",
+
+    "spotify": "https://open.spotify.com/playlist/5ONQl1AIdGjtCT8e6ZQGnr",
+
+    "youtube": "https://music.youtube.com/playlist?list=PLxAmpX2rSqEptj6lDrcrjW9cFqKZcu6Xk&si=Ofms5k5TLcW0a76-",
+
+    "portada": "img/portadas/lali-lali.jpg"
+  },
+
+  {
+    "artista": "jean-carlos",
+    "album": "vale-la-pena",
+
+    "nombreArtista": "Jean Carlos",
+    "nombreAlbum": "Vale la Pena",
+
+    "spotify": "https://open.spotify.com",
+
+    "youtube": "https://music.youtube.com",
+
+    "portada": "img/portadas/jean-carlos-vale-la-pena.jpg"
+  }
+]
