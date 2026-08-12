@@ -1,47 +1,56 @@
-﻿[
+[
     {
-        "artista":  "lali",
-        "album":  "lali",
-        "nombreArtista":  "Lali",
-        "nombreAlbum":  "LALI",
-        "spotify":  "https://open.spotify.com/playlist/5ONQl1AIdGjtCT8e6ZQGnr",
-        "youtube":  "https://music.youtube.com/playlist?list=PLxAmpX2rSqEptj6lDrcrjW9cFqKZcu6Xk\u0026si=Ofms5k5TLcW0a76-",
-        "portada":  "img/portadas/lali-lali.jpg"
+        "artista": "lali",
+        "album": "lali",
+        "nombreArtista": "Lali",
+        "nombreAlbum": "LALI",
+        "spotify": "https://open.spotify.com/playlist/5ONQl1AIdGjtCT8e6ZQGnr",
+        "youtube": "https://music.youtube.com/playlist?list=PLxAmpX2rSqEptj6lDrcrjW9cFqKZcu6Xk&si=Ofms5k5TLcW0a76-",
+        "portada": "img/portadas/lali-lali.jpg"
     },
     {
-        "artista":  "jean-carlos",
-        "album":  "vale-la-pena",
-        "nombreArtista":  "Jean Carlos",
-        "nombreAlbum":  "Vale la Pena",
-        "spotify":  "https://open.spotify.com",
-        "youtube":  "https://music.youtube.com",
-        "portada":  "img/portadas/jean-carlos-vale-la-pena.jpg"
+        "artista": "jean-carlos",
+        "album": "vale-la-pena",
+        "nombreArtista": "Jean Carlos",
+        "nombreAlbum": "Vale la Pena",
+        "spotify": "https://open.spotify.com",
+        "youtube": "https://music.youtube.com",
+        "portada": "img/portadas/jean-carlos-vale-la-pena.jpg"
     },
     {
-        "artista":  "lali",
-        "album":  "brava",
-        "nombreArtista":  "Lali",
-        "nombreAlbum":  "Brava",
-        "spotify":  "",
-        "youtube":  "",
-        "portada":  ""
+        "artista": "lali",
+        "album": "brava",
+        "nombreArtista": "Lali",
+        "nombreAlbum": "Brava",
+        "spotify": "",
+        "youtube": "",
+        "portada": ""
     },
     {
-        "artista":  "tini",
-        "album":  "un-mechon-de-pelo",
-        "nombreArtista":  "Tini",
-        "nombreAlbum":  "Un mechÃ³n de pelo",
-        "spotify":  "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
-        "youtube":  "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg\u0026si=PBzG9KVwY6OAdiyX",
-        "portada":  "img/portadas/tini-un-mechon-de-pelo.jpg"
+        "artista": "tini",
+        "album": "un-mechon-de-pelo",
+        "nombreArtista": "Tini",
+        "nombreAlbum": "Un mechÃ³n de pelo",
+        "spotify": "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg&si=PBzG9KVwY6OAdiyX",
+        "portada": "img/portadas/tini-un-mechon-de-pelo.jpg"
     },
     {
-        "artista":  "thalia",
-        "album":  "primera-fila",
-        "nombreArtista":  "Thalia",
-        "nombreAlbum":  "Primera Fila",
-        "spotify":  "https://open.spotify.com/intl-es/album/1gquXke1WKYRz3VSxlZDxa",
-        "youtube":  "https://music.youtube.com/playlist?list=OLAK5uy_kJbuQOQD8K7gkyb8Tybdby2TNjrrucO1E\u0026si=MjkrncPnKtj5x0wa",
-        "portada":  "img/portadas/thalia-primera-fila.jpg"
+        "artista": "thalia",
+        "album": "primera-fila",
+        "nombreArtista": "Thalia",
+        "nombreAlbum": "Primera Fila",
+        "spotify": "https://open.spotify.com/intl-es/album/1gquXke1WKYRz3VSxlZDxa",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kJbuQOQD8K7gkyb8Tybdby2TNjrrucO1E&si=MjkrncPnKtj5x0wa",
+        "portada": "img/portadas/thalia-primera-fila.jpg"
+    },
+    {
+        "artista": "evanescence",
+        "album": "sanctuary",
+        "nombreArtista": "Evanescence",
+        "nombreAlbum": "Sanctuary",
+        "spotify": "https://open.spotify.com/intl-es/album/7EwLbCSl1p2ptb1EthQTgr",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mRK4Mi23ag3Azc_fMkhuqtZ1MJq2MIsOU&si=VDt2RWvz_j5heUOM",
+        "portada": "img/portadas/evanescence-sanctuary.jpg"
     }
 ]
