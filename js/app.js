@@ -1,76 +1,45 @@
-const botonGuardar = document.getElementById("guardar");
+// Obtener parámetros de la URL
+const parametros = new URLSearchParams(window.location.search);
 
-function convertirSlug(texto) {
+const artista = parametros.get("a");
+const album = parametros.get("d");
 
-    return texto
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-+|-+$/g, "");
+// Cargar base de datos
+fetch("data/discos.json")
+    .then(respuesta => respuesta.json())
+    .then(discos => {
 
-}
+        const disco = discos.find(d =>
+            d.artista === artista &&
+            d.album === album
+        );
 
-botonGuardar.addEventListener("click", async () => {
+        if (!disco) {
 
-    const nombreArtista =
-        document.getElementById("artista").value.trim();
-
-    const nombreAlbum =
-        document.getElementById("album").value.trim();
-
-    const spotify =
-        document.getElementById("spotify").value.trim();
-
-    const youtube =
-        document.getElementById("youtube").value.trim();
-
-    if (!nombreArtista || !nombreAlbum) {
-
-        document.getElementById("mensaje").textContent =
-            "⚠️ Completá artista y álbum.";
-
-        return;
-    }
-
-    const datos = {
-
-        artista: convertirSlug(nombreArtista),
-
-        album: convertirSlug(nombreAlbum),
-
-        nombreArtista: nombreArtista,
-
-        nombreAlbum: nombreAlbum,
-
-        spotify: spotify,
-
-        youtube: youtube,
-
-        portada: ""
-
-    };
-
-    console.log("Datos:", datos);
-
-    try {
-
-        const respuesta = await window.api.guardarDisco(datos);
-
-        if (respuesta.ok) {
-
-            document.getElementById("mensaje").textContent =
-                "✔ MiniCD guardado correctamente.";
+            document.getElementById("artista").textContent = "MiniCD no encontrado";
+            document.getElementById("album").textContent = "";
+            return;
 
         }
 
-    } catch (error) {
+        // Completar datos
+        document.getElementById("artista").textContent = disco.nombreArtista;
+        document.getElementById("album").textContent = disco.nombreAlbum;
+        document.getElementById("portada").src = disco.portada;
 
+        // Botón Spotify
+        document.getElementById("spotify").href = disco.spotify;
+        document.getElementById("spotify").target = "_blank";
+
+        // Botón YouTube Music
+        document.getElementById("youtube").href = disco.youtube;
+        document.getElementById("youtube").target = "_blank";
+
+        // Botón Comprar
+        document.getElementById("comprar").href = "https://minidiscoscba.mitiendanube.com";
+        document.getElementById("comprar").target = "_blank";
+
+    })
+    .catch(error => {
         console.error(error);
-
-        document.getElementById("mensaje").textContent =
-            "❌ Ocurrió un error al guardar.";
-
-    }
-
-});
+    });
