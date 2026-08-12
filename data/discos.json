@@ -116,5 +116,14 @@
         "spotify": "",
         "youtube": "",
         "portada": "img/portadas/lali-prueba-publicar-2.jpg"
+    },
+    {
+        "artista": "tini",
+        "album": "un-mwchon-de-pelo",
+        "nombreArtista": "Tini",
+        "nombreAlbum": "Un mwchón de pelo",
+        "spotify": "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg&si=PBzG9KVwY6OAdiyX",
+        "portada": "img/portadas/tini-un-mwchon-de-pelo.jpg"
     }
 ]
