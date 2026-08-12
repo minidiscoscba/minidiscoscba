@@ -107,5 +107,14 @@
         "spotify": "",
         "youtube": "",
         "portada": "img/portadas/lali-prueba-nfc.jpg"
+    },
+    {
+        "artista": "lali",
+        "album": "prueba-publicar-2",
+        "nombreArtista": "Lali",
+        "nombreAlbum": "Prueba Publicar 2",
+        "spotify": "",
+        "youtube": "",
+        "portada": "img/portadas/lali-prueba-publicar-2.jpg"
     }
 ]
