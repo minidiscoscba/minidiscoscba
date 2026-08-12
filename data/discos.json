@@ -52,5 +52,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/7EwLbCSl1p2ptb1EthQTgr",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mRK4Mi23ag3Azc_fMkhuqtZ1MJq2MIsOU&si=VDt2RWvz_j5heUOM",
         "portada": "img/portadas/evanescence-sanctuary.jpg"
+    },
+    {
+        "artista": "conan-gray",
+        "album": "found-heaven",
+        "nombreArtista": "Conan Gray",
+        "nombreAlbum": "Found Heaven",
+        "spotify": "https://open.spotify.com/intl-es/album/39gMxRpFKgIVvw3krIIam5",
+        "youtube": "https://youtube.com/playlist?list=OLAK5uy_k9VLpSYeWUjyhMzJtkl0i0AupzsBsKznw&si=xBRKECijAmdT_G08",
+        "portada": "img/portadas/conan-gray-found-heaven.jpg"
     }
 ]
