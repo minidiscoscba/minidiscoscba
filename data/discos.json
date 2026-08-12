@@ -1,147 +1,47 @@
-[
+﻿[
     {
-        "artista": "lali",
-        "album": "lali",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "LALI",
-        "spotify": "https://open.spotify.com/playlist/5ONQl1AIdGjtCT8e6ZQGnr",
-        "youtube": "https://music.youtube.com/playlist?list=PLxAmpX2rSqEptj6lDrcrjW9cFqKZcu6Xk&si=Ofms5k5TLcW0a76-",
-        "portada": "img/portadas/lali-lali.jpg"
+        "artista":  "lali",
+        "album":  "lali",
+        "nombreArtista":  "Lali",
+        "nombreAlbum":  "LALI",
+        "spotify":  "https://open.spotify.com/playlist/5ONQl1AIdGjtCT8e6ZQGnr",
+        "youtube":  "https://music.youtube.com/playlist?list=PLxAmpX2rSqEptj6lDrcrjW9cFqKZcu6Xk\u0026si=Ofms5k5TLcW0a76-",
+        "portada":  "img/portadas/lali-lali.jpg"
     },
     {
-        "artista": "jean-carlos",
-        "album": "vale-la-pena",
-        "nombreArtista": "Jean Carlos",
-        "nombreAlbum": "Vale la Pena",
-        "spotify": "https://open.spotify.com",
-        "youtube": "https://music.youtube.com",
-        "portada": "img/portadas/jean-carlos-vale-la-pena.jpg"
+        "artista":  "jean-carlos",
+        "album":  "vale-la-pena",
+        "nombreArtista":  "Jean Carlos",
+        "nombreAlbum":  "Vale la Pena",
+        "spotify":  "https://open.spotify.com",
+        "youtube":  "https://music.youtube.com",
+        "portada":  "img/portadas/jean-carlos-vale-la-pena.jpg"
     },
     {
-        "artista": "lali",
-        "album": "libra",
-        "spotify": "",
-        "youtube": ""
+        "artista":  "lali",
+        "album":  "brava",
+        "nombreArtista":  "Lali",
+        "nombreAlbum":  "Brava",
+        "spotify":  "",
+        "youtube":  "",
+        "portada":  ""
     },
     {
-        "artista": "LALI",
-        "album": "LIBRA",
-        "spotify": "",
-        "youtube": ""
+        "artista":  "tini",
+        "album":  "un-mechon-de-pelo",
+        "nombreArtista":  "Tini",
+        "nombreAlbum":  "Un mechÃ³n de pelo",
+        "spotify":  "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
+        "youtube":  "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg\u0026si=PBzG9KVwY6OAdiyX",
+        "portada":  "img/portadas/tini-un-mechon-de-pelo.jpg"
     },
     {
-        "artista": "LALI",
-        "album": "LIBRA",
-        "spotify": "",
-        "youtube": ""
-    },
-    {
-        "artista": "lali",
-        "album": "libra",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Libra",
-        "spotify": "",
-        "youtube": "",
-        "portada": ""
-    },
-    {
-        "artista": "lali",
-        "album": "brava",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Brava",
-        "spotify": "",
-        "youtube": "",
-        "portada": ""
-    },
-    {
-        "artista": "lali",
-        "album": "libra",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Libra",
-        "spotify": "",
-        "youtube": "",
-        "portada": {
-            "nombre": "3410e0f9e5f0f1d47da7c0bcc2d9c915.jpg",
-            "tipo": "image/jpeg"
-        }
-    },
-    {
-        "artista": "lali",
-        "album": "libra",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Libra",
-        "spotify": "",
-        "youtube": "",
-        "portada": {
-            "nombre": "3410e0f9e5f0f1d47da7c0bcc2d9c915.jpg",
-            "tipo": "image/jpeg"
-        }
-    },
-    {
-        "artista": "lali",
-        "album": "libra",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Libra",
-        "spotify": "",
-        "youtube": "",
-        "portada": {
-            "nombre": "3410e0f9e5f0f1d47da7c0bcc2d9c915.jpg",
-            "tipo": "image/jpeg",
-            "ruta": "C:\\Users\\maria\\Downloads\\LALI\\3410e0f9e5f0f1d47da7c0bcc2d9c915.jpg"
-        }
-    },
-    {
-        "artista": "lali",
-        "album": "libra",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Libra",
-        "spotify": "",
-        "youtube": "",
-        "portada": "img/portadas/lali-libra.jpg"
-    },
-    {
-        "artista": "lali",
-        "album": "prueba-nfc",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "prueba nfc",
-        "spotify": "",
-        "youtube": "",
-        "portada": "img/portadas/lali-prueba-nfc.jpg"
-    },
-    {
-        "artista": "lali",
-        "album": "prueba-publicar-2",
-        "nombreArtista": "Lali",
-        "nombreAlbum": "Prueba Publicar 2",
-        "spotify": "",
-        "youtube": "",
-        "portada": "img/portadas/lali-prueba-publicar-2.jpg"
-    },
-    {
-        "artista": "tini",
-        "album": "un-mwchon-de-pelo",
-        "nombreArtista": "Tini",
-        "nombreAlbum": "Un mwchón de pelo",
-        "spotify": "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
-        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg&si=PBzG9KVwY6OAdiyX",
-        "portada": "img/portadas/tini-un-mwchon-de-pelo.jpg"
-    },
-    {
-        "artista": "tini",
-        "album": "un-mechon-de-pelo",
-        "nombreArtista": "Tini",
-        "nombreAlbum": "Un mechón de pelo",
-        "spotify": "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
-        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg&si=PBzG9KVwY6OAdiyX",
-        "portada": "img/portadas/tini-un-mechon-de-pelo.jpg"
-    },
-    {
-        "artista": "thalia",
-        "album": "primera-fila",
-        "nombreArtista": "Thalia",
-        "nombreAlbum": "Primera Fila",
-        "spotify": "https://open.spotify.com/intl-es/album/1gquXke1WKYRz3VSxlZDxa",
-        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kJbuQOQD8K7gkyb8Tybdby2TNjrrucO1E&si=MjkrncPnKtj5x0wa",
-        "portada": "img/portadas/thalia-primera-fila.jpg"
+        "artista":  "thalia",
+        "album":  "primera-fila",
+        "nombreArtista":  "Thalia",
+        "nombreAlbum":  "Primera Fila",
+        "spotify":  "https://open.spotify.com/intl-es/album/1gquXke1WKYRz3VSxlZDxa",
+        "youtube":  "https://music.youtube.com/playlist?list=OLAK5uy_kJbuQOQD8K7gkyb8Tybdby2TNjrrucO1E\u0026si=MjkrncPnKtj5x0wa",
+        "portada":  "img/portadas/thalia-primera-fila.jpg"
     }
 ]
