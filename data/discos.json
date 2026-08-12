@@ -134,5 +134,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/3wOG84RkmoSoeN3LKkxXga",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lv_3GIN-0eLAOFD_uzjpq7c_6rtIf6pfg&si=PBzG9KVwY6OAdiyX",
         "portada": "img/portadas/tini-un-mechon-de-pelo.jpg"
+    },
+    {
+        "artista": "thalia",
+        "album": "primera-fila",
+        "nombreArtista": "Thalia",
+        "nombreAlbum": "Primera Fila",
+        "spotify": "https://open.spotify.com/intl-es/album/1gquXke1WKYRz3VSxlZDxa",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kJbuQOQD8K7gkyb8Tybdby2TNjrrucO1E&si=MjkrncPnKtj5x0wa",
+        "portada": "img/portadas/thalia-primera-fila.jpg"
     }
 ]
