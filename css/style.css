@@ -162,22 +162,22 @@ footer{
 
     .contenedor{
         width:100%;
-        max-width:560px;
-        padding:12px;
+        max-width:540px;
+        padding:14px;
     }
 
     .logo{
-        width:145px;
-        margin:22px auto 8px;
+        width:135px;
+        margin:20px auto 8px;
     }
 
     .slogan{
-        font-size:15px;
-        margin-bottom:22px;
+        font-size:14px;
+        margin-bottom:20px;
     }
 
     .tarjeta{
-        border-radius:20px;
+        border-radius:18px;
     }
 
     #portada{
@@ -185,47 +185,47 @@ footer{
     }
 
     .reproduciendo{
-        font-size:12px;
-        margin-top:18px;
+        font-size:11px;
+        margin-top:16px;
     }
 
     #artista{
-        font-size:31px;
-        margin-top:8px;
+        font-size:28px;
+        margin-top:7px;
     }
 
     #album{
-        font-size:19px;
-        margin:8px 0 23px;
+        font-size:18px;
+        margin:7px 0 21px;
     }
 
     .botones{
-        gap:11px;
-        padding:0 20px 22px;
+        gap:10px;
+        padding:0 18px 20px;
     }
 
     .boton{
-        padding:15px;
-        font-size:15px;
-        border-radius:12px;
+        padding:14px;
+        font-size:14px;
+        border-radius:11px;
     }
 
     .info{
         gap:8px;
-        margin:22px 0;
+        margin:20px 0;
     }
 
     .icono{
-        font-size:28px;
+        font-size:26px;
     }
 
     .item h3{
-        font-size:14px;
+        font-size:13px;
     }
 
     footer{
         font-size:12px;
-        margin:22px 0;
+        margin:20px 0;
     }
 
 }
