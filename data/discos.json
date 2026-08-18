@@ -106,5 +106,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1UbIf9EZgvzq6b9ACGS9z3",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n0Mm0Ct5g-5tGJ0hHamFNcrMQWb6JwTMY&si=PoXl-NXK5T0WSV4E",
         "portada": "img/portadas/marcela-morelo-los-20-de-morelo.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "otro-plan",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Otro Plan",
+        "spotify": "https://open.spotify.com/intl-es/album/01WnculOAqkk3H76z8Ke3s",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kER8xTVVl0hpH36jBkmgTXU09m2wSixwI&si=iXspifBxabWtU7Mg",
+        "portada": "img/portadas/marcela-morelo-otro-plan.jpg"
     }
 ]
