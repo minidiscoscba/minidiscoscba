@@ -169,5 +169,14 @@
         "spotify": "https://open.spotify.com/playlist/5xBk2JkFwZHFWyLdTXNwhW",
         "youtube": "https://music.youtube.com/playlist?list=PLak89H7aw4vc&si=fRvdGm9ftKtUFHqD",
         "portada": "img/portadas/claudio-toledo-toledo-30-anos.jpg"
+    },
+    {
+        "artista": "claudio-toledo",
+        "album": "toledo-con-trula",
+        "nombreArtista": "Claudio Toledo",
+        "nombreAlbum": "Toledo Con Trula",
+        "spotify": "https://open.spotify.com/playlist/2QeJiCRfTw2cnWsc8urdBv",
+        "youtube": "https://music.youtube.com/playlist?list=PLXK14jp1Vm7w&si=eM7jZVcilfb3gwB7",
+        "portada": "img/portadas/claudio-toledo-toledo-con-trula.jpg"
     }
 ]
