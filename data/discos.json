@@ -97,5 +97,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/5qKhpOCkPRF0rLhzxtpUaS",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kvTdPtJci1gJOrY7ISNhmIKAfksZGJiX4&si=TKyHeCK3MvrbZaao",
         "portada": "img/portadas/marcela-morelo-eclipse.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "los-20-de-morelo",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Los 20 de Morelo",
+        "spotify": "https://open.spotify.com/intl-es/album/1UbIf9EZgvzq6b9ACGS9z3",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n0Mm0Ct5g-5tGJ0hHamFNcrMQWb6JwTMY&si=PoXl-NXK5T0WSV4E",
+        "portada": "img/portadas/marcela-morelo-los-20-de-morelo.jpg"
     }
 ]
