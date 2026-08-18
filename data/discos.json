@@ -70,5 +70,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1HRYXyzpApxnt6IzyepEzi",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mzRJuSwbkqZnvmbPuDIYI2Smt07DDpdJI&si=AHBY6-cA1q5EY8A3",
         "portada": "img/portadas/marcela-morelo-espinas-y-petalos.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "tu-mejor-plan",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Tu Mejor Plan",
+        "spotify": "https://open.spotify.com/intl-es/album/2lQjC0dJQ6Ez3mFTSx6NaI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mKxIVkyGKiCmusnzNCbMbt9rzRaOvtZ3A&si=cnNpNw5VJhOPb3Uk",
+        "portada": "img/portadas/marcela-morelo-tu-mejor-plan.jpg"
     }
 ]
