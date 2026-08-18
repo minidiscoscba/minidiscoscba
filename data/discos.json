@@ -160,5 +160,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4bqayjHNBODGohlC7O9X67",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nrAn1yY-BBbg-OLMRvqoYRuZXxOZ2hfDE&si=yPtJ2OmXULTXRbSr",
         "portada": "img/portadas/marcela-morelo-el-club-de-los-milagros.jpg"
+    },
+    {
+        "artista": "claudio-toledo",
+        "album": "toledo-30-anos",
+        "nombreArtista": "Claudio Toledo",
+        "nombreAlbum": "Toledo 30 Años",
+        "spotify": "https://open.spotify.com/playlist/5xBk2JkFwZHFWyLdTXNwhW",
+        "youtube": "https://music.youtube.com/playlist?list=PLak89H7aw4vc&si=fRvdGm9ftKtUFHqD",
+        "portada": "img/portadas/claudio-toledo-toledo-30-anos.jpg"
     }
 ]
