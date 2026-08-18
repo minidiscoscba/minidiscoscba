@@ -61,5 +61,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/39gMxRpFKgIVvw3krIIam5",
         "youtube": "https://youtube.com/playlist?list=OLAK5uy_k9VLpSYeWUjyhMzJtkl0i0AupzsBsKznw&si=xBRKECijAmdT_G08",
         "portada": "img/portadas/conan-gray-found-heaven.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "espinas-y-petalos",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Espinas y Pétalos",
+        "spotify": "https://open.spotify.com/intl-es/album/1HRYXyzpApxnt6IzyepEzi",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mzRJuSwbkqZnvmbPuDIYI2Smt07DDpdJI&si=AHBY6-cA1q5EY8A3",
+        "portada": "img/portadas/marcela-morelo-espinas-y-petalos.jpg"
     }
 ]
