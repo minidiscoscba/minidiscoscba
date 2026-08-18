@@ -79,5 +79,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2lQjC0dJQ6Ez3mFTSx6NaI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mKxIVkyGKiCmusnzNCbMbt9rzRaOvtZ3A&si=cnNpNw5VJhOPb3Uk",
         "portada": "img/portadas/marcela-morelo-tu-mejor-plan.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "manantial",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Manantial",
+        "spotify": "https://open.spotify.com/intl-es/album/6Dq1c6Alg7V2QmzjadVcBE",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mjJ2AebeLZUbVQOuWwGLCbRkcphS6CYQs&si=OvdyOm4ANOxpYgHe",
+        "portada": "img/portadas/marcela-morelo-manantial.jpg"
     }
 ]
