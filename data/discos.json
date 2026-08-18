@@ -151,5 +151,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1HRYXyzpApxnt6IzyepEzi",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mzRJuSwbkqZnvmbPuDIYI2Smt07DDpdJI&si=jl6t5TaCqO5ESOzy",
         "portada": "img/portadas/marcela-morelo-espinas-petalos.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "el-club-de-los-milagros",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "El Club de los Milagros",
+        "spotify": "https://open.spotify.com/intl-es/album/4bqayjHNBODGohlC7O9X67",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nrAn1yY-BBbg-OLMRvqoYRuZXxOZ2hfDE&si=yPtJ2OmXULTXRbSr",
+        "portada": "img/portadas/marcela-morelo-el-club-de-los-milagros.jpg"
     }
 ]
