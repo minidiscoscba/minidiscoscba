@@ -178,5 +178,14 @@
         "spotify": "https://open.spotify.com/playlist/2QeJiCRfTw2cnWsc8urdBv",
         "youtube": "https://music.youtube.com/playlist?list=PLXK14jp1Vm7w&si=eM7jZVcilfb3gwB7",
         "portada": "img/portadas/claudio-toledo-toledo-con-trula.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "invisible",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Invisible",
+        "spotify": "https://open.spotify.com/intl-es/album/7CnPuOJunB3QXJlWCbZ3Zn",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mI1tUU4K2phTSUmqE8aYTk9i589-ibMrI&si=V8WO3Cvk5aMqsgnr",
+        "portada": "img/portadas/marcela-morelo-invisible.jpg"
     }
 ]
