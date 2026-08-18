@@ -88,5 +88,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/6Dq1c6Alg7V2QmzjadVcBE",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mjJ2AebeLZUbVQOuWwGLCbRkcphS6CYQs&si=OvdyOm4ANOxpYgHe",
         "portada": "img/portadas/marcela-morelo-manantial.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "eclipse",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Eclipse",
+        "spotify": "https://open.spotify.com/intl-es/album/5qKhpOCkPRF0rLhzxtpUaS",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kvTdPtJci1gJOrY7ISNhmIKAfksZGJiX4&si=TKyHeCK3MvrbZaao",
+        "portada": "img/portadas/marcela-morelo-eclipse.jpg"
     }
 ]
