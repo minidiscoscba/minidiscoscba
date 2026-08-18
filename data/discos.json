@@ -124,5 +124,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/5oF49G7iG8S0BNsA35vTRI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nwhpKFy1qCYSUteBuB_QLV6bQkIvStkx8&si=u1_oBMAk7oM0TM44",
         "portada": "img/portadas/marcela-morelo-fuera-del-tiempo.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "morelo-5",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Morelo 5",
+        "spotify": "https://open.spotify.com/intl-es/album/2y1amWJWNFpMgu249hE5MM",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k7lod8MftkUj2ls6jIlhrdC2rAO4FXHqc&si=zrbBcNz8kfpwjqMJ",
+        "portada": "img/portadas/marcela-morelo-morelo-5.png"
     }
 ]
