@@ -142,5 +142,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1olFbBXbBTbKFQQNggcgRH",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lzCHnJP5QByCaxMs1t2btIeLYgbOWBrgs&si=_AFBCjrckv2vpynP",
         "portada": "img/portadas/marcela-morelo-tu-boca.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "espinas-petalos",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Espinas & Pétalos",
+        "spotify": "https://open.spotify.com/intl-es/album/1HRYXyzpApxnt6IzyepEzi",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mzRJuSwbkqZnvmbPuDIYI2Smt07DDpdJI&si=jl6t5TaCqO5ESOzy",
+        "portada": "img/portadas/marcela-morelo-espinas-petalos.jpg"
     }
 ]
