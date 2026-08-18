@@ -133,5 +133,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2y1amWJWNFpMgu249hE5MM",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k7lod8MftkUj2ls6jIlhrdC2rAO4FXHqc&si=zrbBcNz8kfpwjqMJ",
         "portada": "img/portadas/marcela-morelo-morelo-5.png"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "tu-boca",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Tu Boca",
+        "spotify": "https://open.spotify.com/intl-es/album/1olFbBXbBTbKFQQNggcgRH",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lzCHnJP5QByCaxMs1t2btIeLYgbOWBrgs&si=_AFBCjrckv2vpynP",
+        "portada": "img/portadas/marcela-morelo-tu-boca.jpg"
     }
 ]
