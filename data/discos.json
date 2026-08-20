@@ -187,5 +187,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/7CnPuOJunB3QXJlWCbZ3Zn",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mI1tUU4K2phTSUmqE8aYTk9i589-ibMrI&si=V8WO3Cvk5aMqsgnr",
         "portada": "img/portadas/marcela-morelo-invisible.jpg"
+    },
+    {
+        "artista": "jean-carlos",
+        "album": "nominado",
+        "nombreArtista": "Jean Carlos",
+        "nombreAlbum": "Nominado",
+        "spotify": "https://open.spotify.com/intl-es/album/0plUTXDPuD3mDlDPhQGZY7?si=XfRS5ZxeT7KucEO2qK7laA",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k96T6tB1Dviy_gT4ohESvhajRpxrxfKjA&si=VzQkqBwTSsD-l6g-",
+        "portada": "img/portadas/jean-carlos-nominado.jpg"
     }
 ]
