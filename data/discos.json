@@ -194,7 +194,7 @@
         "nombreArtista": "Jean Carlos",
         "nombreAlbum": "Nominado",
         "spotify": "https://open.spotify.com/intl-es/album/0plUTXDPuD3mDlDPhQGZY7?si=XfRS5ZxeT7KucEO2qK7laA",
-        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k96T6tB1Dviy_gT4ohESvhajRpxrxfKjA&si=VzQkqBwTSsD-l6g-",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k96T6tB1Dviy_gT4ohESvhajRpxrxfKjA",
         "portada": "img/portadas/jean-carlos-nominado.jpg"
     },
     {
@@ -205,5 +205,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2gt2L1ZqiYaTQpwVfD5f55",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lKt_rkD6w4r52RNHK85_4MZ8JQREbAe0A&si=9Gi--cOjEuWKwXPS",
         "portada": "img/portadas/jean-carlos-a-lo-largo-y-a-lo-ancho.jpg"
+    },
+    {
+        "artista": "roxette",
+        "album": "don-t-bore-us-get-to-the-chorus",
+        "nombreArtista": "Roxette",
+        "nombreAlbum": "Don't Bore Us - Get to the Chorus!",
+        "spotify": "https://open.spotify.com/intl-es/album/6Zd1OLqFX5geleqvJ9xtAL",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_meS8YOryFrw0b-hMKwJdbgj8UgIyMDb9I&si=Uoekoh5hoEqWwbqY",
+        "portada": "img/portadas/roxette-don-t-bore-us-get-to-the-chorus.jpg"
     }
 ]
