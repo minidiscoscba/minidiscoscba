@@ -223,5 +223,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1m48hdS1VeCbPI7rWlxPL1",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nBt6xZhzcU-UFmSog8I_QG4Kb2wxxmnGQ&si=LN-cd2Je3Ki4hvus",
         "portada": "img/portadas/bon-jovi-greatest-hits-the-ultimate-collection.jpg"
+    },
+    {
+        "artista": "phil-collins",
+        "album": "serious-hits-live",
+        "nombreArtista": "Phil Collins",
+        "nombreAlbum": "Serious Hits...Live!",
+        "spotify": "https://open.spotify.com/intl-es/album/3YhgdRfaZrVIOORGK9SNiV",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kB2m7dt2I5NYMsN8H5DEY5dRQWD76WYX4&si=ysXuOTmUpkjU3z7S",
+        "portada": "img/portadas/phil-collins-serious-hits-live.jpg"
     }
 ]
