@@ -232,5 +232,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/3YhgdRfaZrVIOORGK9SNiV",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kB2m7dt2I5NYMsN8H5DEY5dRQWD76WYX4&si=ysXuOTmUpkjU3z7S",
         "portada": "img/portadas/phil-collins-serious-hits-live.jpg"
+    },
+    {
+        "artista": "taylor-swift",
+        "album": "the-life-of-a-showgirl",
+        "nombreArtista": "Taylor Swift",
+        "nombreAlbum": "The Life of a Showgirl",
+        "spotify": "https://open.spotify.com/intl-es/album/4a6NzYL1YHRUgx9e3YZI6I",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ktsNq_asQthl1xOm_tXwpD9tZa5413YFc&si=xfi21mWgR4NBchxq",
+        "portada": "img/portadas/taylor-swift-the-life-of-a-showgirl.jpg"
     }
 ]
