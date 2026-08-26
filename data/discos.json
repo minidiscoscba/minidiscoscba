@@ -241,5 +241,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4a6NzYL1YHRUgx9e3YZI6I",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ktsNq_asQthl1xOm_tXwpD9tZa5413YFc&si=xfi21mWgR4NBchxq",
         "portada": "img/portadas/taylor-swift-the-life-of-a-showgirl.jpg"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "marcela-morelo",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "Marcela Morelo",
+        "spotify": "https://open.spotify.com/intl-es/artist/63xFjf6Ww22O5gHrBP79G9",
+        "youtube": "https://music.youtube.com/@marcelamorelook?si=QG4tRmarbrTwjPwj",
+        "portada": "img/portadas/marcela-morelo-marcela-morelo.jpg"
     }
 ]
