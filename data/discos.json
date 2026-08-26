@@ -250,5 +250,14 @@
         "spotify": "https://open.spotify.com/intl-es/artist/63xFjf6Ww22O5gHrBP79G9",
         "youtube": "https://music.youtube.com/@marcelamorelook?si=QG4tRmarbrTwjPwj",
         "portada": "img/portadas/marcela-morelo-marcela-morelo.jpg"
+    },
+    {
+        "artista": "la-moza",
+        "album": "la-moza",
+        "nombreArtista": "La Moza",
+        "nombreAlbum": "La Moza",
+        "spotify": "https://open.spotify.com/intl-es/artist/4xcojjU53ct6Z1PEd6RBP6",
+        "youtube": "https://youtube.com/@lamozamusica?si=6ecXk8UPLHOgoQOf",
+        "portada": "img/portadas/la-moza-la-moza.jpg"
     }
 ]
