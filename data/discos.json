@@ -259,5 +259,14 @@
         "spotify": "https://open.spotify.com/intl-es/artist/4xcojjU53ct6Z1PEd6RBP6",
         "youtube": "https://youtube.com/@lamozamusica?si=6ecXk8UPLHOgoQOf",
         "portada": "img/portadas/la-moza-la-moza.jpg"
+    },
+    {
+        "artista": "palito-sanchez",
+        "album": "palito-sanchez",
+        "nombreArtista": "Palito Sánchez",
+        "nombreAlbum": "Palito Sánchez",
+        "spotify": "https://open.spotify.com/intl-es/artist/27IIsfXfjxnhAUXAOPYWpn",
+        "youtube": "https://youtube.com/channel/UCtoWlwL4lnnoVXd2Fc5PSLA?si=3_yLoZ54i6u8CMSg",
+        "portada": "img/portadas/palito-sanchez-palito-sanchez.png"
     }
 ]
