@@ -268,5 +268,14 @@
         "spotify": "https://open.spotify.com/intl-es/artist/27IIsfXfjxnhAUXAOPYWpn",
         "youtube": "https://youtube.com/channel/UCtoWlwL4lnnoVXd2Fc5PSLA?si=3_yLoZ54i6u8CMSg",
         "portada": "img/portadas/palito-sanchez-palito-sanchez.png"
+    },
+    {
+        "artista": "franco-pirro",
+        "album": "la-barra-el-loco-amato",
+        "nombreArtista": "Franco Pirro",
+        "nombreAlbum": "La Barra/ El Loco Amato",
+        "spotify": "https://open.spotify.com/playlist/1Jb52hHJ1KHcWtD7tBdsVl",
+        "youtube": "https://music.youtube.com/playlist?list=PLbkaaMQNjoic&si=aumLN_gI-lJ-stPl",
+        "portada": "img/portadas/franco-pirro-la-barra-el-loco-amato.png"
     }
 ]
