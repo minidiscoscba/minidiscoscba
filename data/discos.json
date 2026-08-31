@@ -277,5 +277,14 @@
         "spotify": "https://open.spotify.com/playlist/1Jb52hHJ1KHcWtD7tBdsVl",
         "youtube": "https://music.youtube.com/playlist?list=PLbkaaMQNjoic&si=aumLN_gI-lJ-stPl",
         "portada": "img/portadas/franco-pirro-la-barra-el-loco-amato.png"
+    },
+    {
+        "artista": "bandana",
+        "album": "bandana-la-vuelta",
+        "nombreArtista": "Bandana",
+        "nombreAlbum": "Bandana La Vuelta",
+        "spotify": "https://open.spotify.com/intl-es/album/27reF3PyP0CJtHPIuqw1UE",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m-0Qw4wPIm2LY9KZ6_Noj3KAhe0pg-aSU&si=zMjdqK8-sLjrIQg9",
+        "portada": "img/portadas/bandana-bandana-la-vuelta.webp"
     }
 ]
