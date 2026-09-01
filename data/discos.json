@@ -295,5 +295,14 @@
         "spotify": "https://open.spotify.com/playlist/6KbvrYPGwEtp3hjH1aenAq",
         "youtube": "https://music.youtube.com/playlist?list=RDCLAK5uy_kZYUttZEWRO1RutVGKTybypGB8nCq94Q4&playnext=1&si=6hSO3ippVrYG4nl8",
         "portada": "img/portadas/un-corazon-lo-mejor-de-un-corazon.png"
+    },
+    {
+        "artista": "marcos-witt",
+        "album": "eterno",
+        "nombreArtista": "Marcos Witt",
+        "nombreAlbum": "Eterno",
+        "spotify": "https://open.spotify.com/intl-es/album/2ue3bbdkXbjMM892PpXIqf",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lpjz6R0ZrCstcBKOPyCvH3etcPMtHd-X0&si=-agyRlOgDUfGrGx2",
+        "portada": "img/portadas/marcos-witt-eterno.png"
     }
 ]
