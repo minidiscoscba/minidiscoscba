@@ -331,5 +331,14 @@
         "spotify": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kcoRvXuX8AWWr5W2HyOPnwp4i11UfdryY&si=deCDZmIyD77kjCJU",
         "portada": "img/portadas/michael-jackson-off-the-wall.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "nada-es-igual",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Nada Es Igual",
+        "spotify": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mTySwT-XBArzm8xOk1WPF7heXAysBtpSc&si=HnzgTDtNIENXV0xZ",
+        "portada": "img/portadas/luis-miguel-nada-es-igual.jpg"
     }
 ]
