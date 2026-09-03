@@ -313,5 +313,14 @@
         "spotify": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m9ELAPGUnHtlIMV6T_bDb6YsiSKu5cI7M&si=r8gS5OTnpNxE7PD6",
         "portada": "img/portadas/michael-jackson-bad.jpg"
+    },
+    {
+        "artista": "michael-jackson",
+        "album": "thriller",
+        "nombreArtista": "Michael Jackson",
+        "nombreAlbum": "Thriller",
+        "spotify": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kC31zCBDi0OKrQYSBkiKi69T3AB9ci6sI&si=X-6cKo4uKtxQe9uk",
+        "portada": "img/portadas/michael-jackson-thriller.jpg"
     }
 ]
