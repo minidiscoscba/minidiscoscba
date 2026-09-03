@@ -304,5 +304,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2ue3bbdkXbjMM892PpXIqf",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lpjz6R0ZrCstcBKOPyCvH3etcPMtHd-X0&si=-agyRlOgDUfGrGx2",
         "portada": "img/portadas/marcos-witt-eterno.png"
+    },
+    {
+        "artista": "michael-jackson",
+        "album": "bad",
+        "nombreArtista": "Michael Jackson",
+        "nombreAlbum": "Bad",
+        "spotify": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m9ELAPGUnHtlIMV6T_bDb6YsiSKu5cI7M&si=r8gS5OTnpNxE7PD6",
+        "portada": "img/portadas/michael-jackson-bad.jpg"
     }
 ]
