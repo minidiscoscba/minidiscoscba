@@ -322,5 +322,14 @@
         "spotify": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kC31zCBDi0OKrQYSBkiKi69T3AB9ci6sI&si=X-6cKo4uKtxQe9uk",
         "portada": "img/portadas/michael-jackson-thriller.jpg"
+    },
+    {
+        "artista": "michael-jackson",
+        "album": "off-the-wall",
+        "nombreArtista": "Michael Jackson",
+        "nombreAlbum": "Off The Wall",
+        "spotify": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kcoRvXuX8AWWr5W2HyOPnwp4i11UfdryY&si=deCDZmIyD77kjCJU",
+        "portada": "img/portadas/michael-jackson-off-the-wall.jpg"
     }
 ]
