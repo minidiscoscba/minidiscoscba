@@ -340,5 +340,14 @@
         "spotify": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mTySwT-XBArzm8xOk1WPF7heXAysBtpSc&si=HnzgTDtNIENXV0xZ",
         "portada": "img/portadas/luis-miguel-nada-es-igual.jpg"
+    },
+    {
+        "artista": "eelke-kleijn",
+        "album": "stranger-s-town",
+        "nombreArtista": "EELKE KLEIJN",
+        "nombreAlbum": "Stranger's Town",
+        "spotify": "https://open.spotify.com/album/58VaYZs7UWfZ0kXIitslrU",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n24JAL58S1F8iEYrfOpH55fBto9SBo3cs&si=RFIEqEQQ3I3_65a6",
+        "portada": "img/portadas/eelke-kleijn-stranger-s-town.png"
     }
 ]
