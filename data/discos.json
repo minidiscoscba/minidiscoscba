@@ -367,5 +367,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4MjzdTkEmTwPAlVwDSSivP",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kkmopRsouWJEqywyIlDHN3_VKlEHBhJXA&si=4UMINhGBCRVMCTKy",
         "portada": "img/portadas/luis-miguel-romance.jpg"
+    },
+    {
+        "artista": "la-mona-jimenez",
+        "album": "el-vicio-de-la-mona",
+        "nombreArtista": "La Mona Jiménez",
+        "nombreAlbum": "El Vicio de La Mona",
+        "spotify": "https://open.spotify.com/intl-es/album/4hGyNfsSTKPHNKYk9r7HfI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ncb2Qn_hyRE9zJKrQDFFp6k0_oEW5NmSo&si=HpP2baCMwAyGM_Xx",
+        "portada": "img/portadas/la-mona-jimenez-el-vicio-de-la-mona.png"
     }
 ]
