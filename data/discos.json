@@ -349,5 +349,14 @@
         "spotify": "https://open.spotify.com/album/58VaYZs7UWfZ0kXIitslrU",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n24JAL58S1F8iEYrfOpH55fBto9SBo3cs&si=RFIEqEQQ3I3_65a6",
         "portada": "img/portadas/eelke-kleijn-stranger-s-town.png"
+    },
+    {
+        "artista": "bandana",
+        "album": "bdna",
+        "nombreArtista": "Bandana",
+        "nombreAlbum": "BDNA",
+        "spotify": "https://open.spotify.com/intl-es/artist/5SqghR4PmacEuzlpIOQI2k",
+        "youtube": "https://music.youtube.com/@bandana_oficial",
+        "portada": "img/portadas/bandana-bdna.jpg"
     }
 ]
