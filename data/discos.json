@@ -376,5 +376,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4hGyNfsSTKPHNKYk9r7HfI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ncb2Qn_hyRE9zJKrQDFFp6k0_oEW5NmSo&si=HpP2baCMwAyGM_Xx",
         "portada": "img/portadas/la-mona-jimenez-el-vicio-de-la-mona.png"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "mi-flor",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Mi Flor",
+        "spotify": "https://open.spotify.com/playlist/0leNM6OjP2SCyCgr2HYfeU",
+        "youtube": "https://music.youtube.com/playlist?list=PLNSqTAimA2xY&si=7_Lvve2o_CtZy-cz",
+        "portada": "img/portadas/artistas-varios-mi-flor.jpg"
     }
 ]
