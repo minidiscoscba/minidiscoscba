@@ -358,5 +358,14 @@
         "spotify": "https://open.spotify.com/intl-es/artist/5SqghR4PmacEuzlpIOQI2k",
         "youtube": "https://music.youtube.com/@bandana_oficial",
         "portada": "img/portadas/bandana-bdna.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "romance",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Romance",
+        "spotify": "https://open.spotify.com/intl-es/album/4MjzdTkEmTwPAlVwDSSivP",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kkmopRsouWJEqywyIlDHN3_VKlEHBhJXA&si=4UMINhGBCRVMCTKy",
+        "portada": "img/portadas/luis-miguel-romance.jpg"
     }
 ]
