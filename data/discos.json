@@ -394,5 +394,14 @@
         "spotify": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ksLZH-rkD59iF71qwSkFBEWB8nwik9zKI&si=SumeYrGplVAb80l9",
         "portada": "img/portadas/gilda-pasito-a-pasito-con-gilda.jpg"
+    },
+    {
+        "artista": "gilda",
+        "album": "entre-el-cielo-y-la-tierra",
+        "nombreArtista": "Gilda",
+        "nombreAlbum": "Entre el Cielo y la Tierra",
+        "spotify": "https://open.spotify.com/album/20ZYmSKymOSlFGxhGrS61d",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mIbRoaotUNsRqeVWMjnZkjIj-OrMXsAnU&si=a9aJw4SLVFPDhTyX",
+        "portada": "img/portadas/gilda-entre-el-cielo-y-la-tierra.jpg"
     }
 ]
