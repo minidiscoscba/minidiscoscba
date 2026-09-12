@@ -385,5 +385,14 @@
         "spotify": "https://open.spotify.com/playlist/0leNM6OjP2SCyCgr2HYfeU",
         "youtube": "https://music.youtube.com/playlist?list=PLNSqTAimA2xY&si=7_Lvve2o_CtZy-cz",
         "portada": "img/portadas/artistas-varios-mi-flor.jpg"
+    },
+    {
+        "artista": "gilda",
+        "album": "pasito-a-pasito-con-gilda",
+        "nombreArtista": "Gilda",
+        "nombreAlbum": "Pasito a Pasito con... Gilda",
+        "spotify": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ksLZH-rkD59iF71qwSkFBEWB8nwik9zKI&si=SumeYrGplVAb80l9",
+        "portada": "img/portadas/gilda-pasito-a-pasito-con-gilda.jpg"
     }
 ]
