@@ -412,5 +412,14 @@
         "spotify": "https://open.spotify.com/album/4mMpHudqwIzXpJUXnLXIml",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lP-0OgITVZCIGj-Js0pON7YaayyPEKB-M&si=uYNXQaQHc24u2k8V",
         "portada": "img/portadas/gilda-la-unica.png"
+    },
+    {
+        "artista": "gilda",
+        "album": "corazon-valiente",
+        "nombreArtista": "Gilda",
+        "nombreAlbum": "Corazón Valiente",
+        "spotify": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lZI9P_RmwKkPuzSHRNYKMexf0tFwd1ptg&si=2Pdzg2WCNq9cy5Mf",
+        "portada": "img/portadas/gilda-corazon-valiente.jpg"
     }
 ]
