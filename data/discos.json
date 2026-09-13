@@ -430,5 +430,14 @@
         "spotify": "https://open.spotify.com/playlist/1pRAzniJumw4aXuza90rRa",
         "youtube": "https://music.youtube.com/playlist?list=PLXY8boPMFOAM&si=YSSoUXLtPYhLdBSj",
         "portada": "img/portadas/synthectic-ritual-synthectic-ritual.jpg"
+    },
+    {
+        "artista": "bandana",
+        "album": "hasta-siempre",
+        "nombreArtista": "Bandana",
+        "nombreAlbum": "Hasta Siempre",
+        "spotify": "https://open.spotify.com/album/5AdwImhqFMEFyGG98r7XZ2",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lu_1cWzDpMUktvarXbAilH62I_MHcpnLA&si=mJWT8xVVdJIgQGWn",
+        "portada": "img/portadas/bandana-hasta-siempre.png"
     }
 ]
