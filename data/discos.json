@@ -448,5 +448,14 @@
         "spotify": "https://open.spotify.com/album/6BJ8xsES0Hj2oWB0YWcy59",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lEFFFh8F6PLAxtsbPGZcUojBFhBgJ1WuE&si=oA4tud-5EcNSkti5",
         "portada": "img/portadas/bandana-noche.jpg"
+    },
+    {
+        "artista": "bandana",
+        "album": "bandana",
+        "nombreArtista": "Bandana",
+        "nombreAlbum": "Bandana",
+        "spotify": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kyQFvNwMqYDIHKWg7dECd2ivnLxoHWeVU&si=8sfEQ4ANKomos0Sa",
+        "portada": "img/portadas/bandana-bandana.jpg"
     }
 ]
