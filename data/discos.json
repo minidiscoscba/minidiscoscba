@@ -421,5 +421,14 @@
         "spotify": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lZI9P_RmwKkPuzSHRNYKMexf0tFwd1ptg&si=2Pdzg2WCNq9cy5Mf",
         "portada": "img/portadas/gilda-corazon-valiente.jpg"
+    },
+    {
+        "artista": "synthectic-ritual",
+        "album": "synthectic-ritual",
+        "nombreArtista": "Synthectic Ritual",
+        "nombreAlbum": "Synthectic Ritual",
+        "spotify": "https://open.spotify.com/playlist/1pRAzniJumw4aXuza90rRa",
+        "youtube": "https://music.youtube.com/playlist?list=PLXY8boPMFOAM&si=YSSoUXLtPYhLdBSj",
+        "portada": "img/portadas/synthectic-ritual-synthectic-ritual.jpg"
     }
 ]
