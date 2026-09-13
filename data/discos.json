@@ -439,5 +439,14 @@
         "spotify": "https://open.spotify.com/album/5AdwImhqFMEFyGG98r7XZ2",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lu_1cWzDpMUktvarXbAilH62I_MHcpnLA&si=mJWT8xVVdJIgQGWn",
         "portada": "img/portadas/bandana-hasta-siempre.png"
+    },
+    {
+        "artista": "bandana",
+        "album": "noche",
+        "nombreArtista": "Bandana",
+        "nombreAlbum": "Noche",
+        "spotify": "https://open.spotify.com/album/6BJ8xsES0Hj2oWB0YWcy59",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lEFFFh8F6PLAxtsbPGZcUojBFhBgJ1WuE&si=oA4tud-5EcNSkti5",
+        "portada": "img/portadas/bandana-noche.jpg"
     }
 ]
