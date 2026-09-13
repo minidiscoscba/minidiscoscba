@@ -457,5 +457,14 @@
         "spotify": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kyQFvNwMqYDIHKWg7dECd2ivnLxoHWeVU&si=8sfEQ4ANKomos0Sa",
         "portada": "img/portadas/bandana-bandana.jpg"
+    },
+    {
+        "artista": "bandana",
+        "album": "vivir-intentando",
+        "nombreArtista": "Bandana",
+        "nombreAlbum": "Vivir Intentando",
+        "spotify": "https://open.spotify.com/album/2m7wfKBfY2N4jzqtRpJT4y",
+        "youtube": "https://open.spotify.com/album/2m7wfKBfY2N4jzqtRpJT4y?si=ZIxl-RNZQy6uOd14OwyFAA",
+        "portada": "img/portadas/bandana-vivir-intentando.jpg"
     }
 ]
