@@ -466,5 +466,14 @@
         "spotify": "https://open.spotify.com/album/2m7wfKBfY2N4jzqtRpJT4y",
         "youtube": "https://open.spotify.com/album/2m7wfKBfY2N4jzqtRpJT4y?si=ZIxl-RNZQy6uOd14OwyFAA",
         "portada": "img/portadas/bandana-vivir-intentando.jpg"
+    },
+    {
+        "artista": "daniel-caesar",
+        "album": "always",
+        "nombreArtista": "Daniel Caesar",
+        "nombreAlbum": "Always",
+        "spotify": "https://open.spotify.com/intl-es/track/2LlOeW5rVcvl3QcPNPcDus",
+        "youtube": "https://music.youtube.com/watch?v=Lk3UlEyIW84&si=0Zj498J2JguaiAg0",
+        "portada": "img/portadas/daniel-caesar-always.webp"
     }
 ]
