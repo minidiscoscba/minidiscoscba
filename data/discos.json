@@ -475,5 +475,14 @@
         "spotify": "https://open.spotify.com/intl-es/track/2LlOeW5rVcvl3QcPNPcDus",
         "youtube": "https://music.youtube.com/watch?v=Lk3UlEyIW84&si=0Zj498J2JguaiAg0",
         "portada": "img/portadas/daniel-caesar-always.webp"
+    },
+    {
+        "artista": "tan-bionica",
+        "album": "destinologia",
+        "nombreArtista": "Tan Biónica",
+        "nombreAlbum": "Destinología",
+        "spotify": "https://open.spotify.com/intl-es/album/6IIjQgKIAwlt26FgnXxuVr",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_llgdcIquHuQu-ELMTV19uae5TzUpvHiI8&si=qsblZyzMgnVXf0Nm",
+        "portada": "img/portadas/tan-bionica-destinologia.jpg"
     }
 ]
