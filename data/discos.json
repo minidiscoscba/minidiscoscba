@@ -583,5 +583,14 @@
         "spotify": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k8ZoZSWNspkTzV-NXSzrMCl6rChaqW8lo&si=tNJCp-jEk1CN33BI",
         "portada": "img/portadas/luis-miguel-1-1-2-enamorados.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "33",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "33",
+        "spotify": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kNLa22rVRaTag_Is4zAGQBMr7nk2rdVlw&si=1kTVc_vZGM0bwZEK",
+        "portada": "img/portadas/luis-miguel-33.jpg"
     }
 ]
