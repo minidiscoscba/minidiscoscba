@@ -592,5 +592,14 @@
         "spotify": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kNLa22rVRaTag_Is4zAGQBMr7nk2rdVlw&si=1kTVc_vZGM0bwZEK",
         "portada": "img/portadas/luis-miguel-33.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "amarte-es-un-placer",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Amarte es un Placer",
+        "spotify": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mgEMbjemWrzmC_hTyaMgiSANi-tJegEEY&si=HqcEhhCSdd6JkPSu",
+        "portada": "img/portadas/luis-miguel-amarte-es-un-placer.jpg"
     }
 ]
