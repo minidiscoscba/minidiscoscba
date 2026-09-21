@@ -529,5 +529,14 @@
         "spotify": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nGJgQha9lI8TzHB0j2srmXwaoHGXK9GBA&si=IYalJPUjL7ruQGib",
         "portada": "img/portadas/luis-miguel-complices.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "segundo-romance",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Segundo Romance",
+        "spotify": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kh_wDpOHAayxRRmrC6KVNG0VpJNKWtwtg&si=vXPwlFfFE12Ngu8A",
+        "portada": "img/portadas/luis-miguel-segundo-romance.png"
     }
 ]
