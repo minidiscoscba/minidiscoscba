@@ -565,5 +565,14 @@
         "spotify": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lBUYgflgZBuIfIlqOsfepSzP7HSFK1hHk&si=EdcHgg2iMPPzhspC",
         "portada": "img/portadas/luis-miguel-soy-como-quiero-ser.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "misterios-del-amor",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Misterios del Amor",
+        "spotify": "https://open.spotify.com/intl-es/track/3RIvQ3bLGsyHLJTPhiJfvx",
+        "youtube": "https://music.youtube.com/watch?v=scFh589iCy0&si=UslcD53JL_yB4mcU",
+        "portada": "img/portadas/luis-miguel-misterios-del-amor.png"
     }
 ]
