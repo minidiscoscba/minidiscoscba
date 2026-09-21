@@ -484,5 +484,23 @@
         "spotify": "https://open.spotify.com/intl-es/album/6IIjQgKIAwlt26FgnXxuVr",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_llgdcIquHuQu-ELMTV19uae5TzUpvHiI8&si=qsblZyzMgnVXf0Nm",
         "portada": "img/portadas/tan-bionica-destinologia.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "romances",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Romances",
+        "spotify": "https://open.spotify.com/intl-es/album/3OdgRM6jaoh8Q1Nu3BnheU",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_meVT5XiW6A6Hia5UtXEsIH2WgK3fbrF8w&si=n8HIosVEU_1JTwxU",
+        "portada": "img/portadas/luis-miguel-romances.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "20-anos",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "20 años",
+        "spotify": "https://open.spotify.com/intl-es/album/3D9NENGfg4DFmYJrEaxRHd",
+        "youtube": "https://open.spotify.com/intl-es/album/3D9NENGfg4DFmYJrEaxRHd?si=im2qYPbGRCCP8lmr5UCi8g",
+        "portada": "img/portadas/luis-miguel-20-anos.jpg"
     }
 ]
