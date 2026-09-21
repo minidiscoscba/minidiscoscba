@@ -538,5 +538,14 @@
         "spotify": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kh_wDpOHAayxRRmrC6KVNG0VpJNKWtwtg&si=vXPwlFfFE12Ngu8A",
         "portada": "img/portadas/luis-miguel-segundo-romance.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "busca-una-mujer",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Busca Una Mujer",
+        "spotify": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lX2_MuD7FMUagVTBYjfTkWu7ozTMzK7Wc&si=dcrb56U-RlYLc3MF",
+        "portada": "img/portadas/luis-miguel-busca-una-mujer.png"
     }
 ]
