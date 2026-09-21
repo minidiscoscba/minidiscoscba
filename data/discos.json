@@ -547,5 +547,14 @@
         "spotify": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lX2_MuD7FMUagVTBYjfTkWu7ozTMzK7Wc&si=dcrb56U-RlYLc3MF",
         "portada": "img/portadas/luis-miguel-busca-una-mujer.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "directo-al-corazon",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Directo Al Corazón",
+        "spotify": "https://open.spotify.com/album/1qLSYu2HwnMyirHb6mkN9S",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kJPLmTh_jEaruXG-RVAjz3lUhfyef6hnk&si=7FAPNdgYjfMzPC0D",
+        "portada": "img/portadas/luis-miguel-directo-al-corazon.png"
     }
 ]
