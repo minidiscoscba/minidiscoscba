@@ -556,5 +556,14 @@
         "spotify": "https://open.spotify.com/album/1qLSYu2HwnMyirHb6mkN9S",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kJPLmTh_jEaruXG-RVAjz3lUhfyef6hnk&si=7FAPNdgYjfMzPC0D",
         "portada": "img/portadas/luis-miguel-directo-al-corazon.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "soy-como-quiero-ser",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Soy Como Quiero Ser",
+        "spotify": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lBUYgflgZBuIfIlqOsfepSzP7HSFK1hHk&si=EdcHgg2iMPPzhspC",
+        "portada": "img/portadas/luis-miguel-soy-como-quiero-ser.png"
     }
 ]
