@@ -502,5 +502,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/3D9NENGfg4DFmYJrEaxRHd",
         "youtube": "https://open.spotify.com/intl-es/album/3D9NENGfg4DFmYJrEaxRHd?si=im2qYPbGRCCP8lmr5UCi8g",
         "portada": "img/portadas/luis-miguel-20-anos.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "vivo",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Vivo",
+        "spotify": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ndXP5UAv0QWWzTd3kUhcYRfw2YLoyU-q8&si=ZEBKnyQZpx130CAW",
+        "portada": "img/portadas/luis-miguel-vivo.jpg"
     }
 ]
