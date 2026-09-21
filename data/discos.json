@@ -520,5 +520,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/41VfVz6sKvbm1yCbqAlwfM",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lLEjn0bGT_GbZUrMNMXOl_-Uj_QgAEI7M&si=L2TBgfrDam15RQyV",
         "portada": "img/portadas/luis-miguel-mexico-en-la-piel.webp"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "complices",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Cómplices",
+        "spotify": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nGJgQha9lI8TzHB0j2srmXwaoHGXK9GBA&si=IYalJPUjL7ruQGib",
+        "portada": "img/portadas/luis-miguel-complices.jpg"
     }
 ]
