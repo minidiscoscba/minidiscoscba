@@ -574,5 +574,14 @@
         "spotify": "https://open.spotify.com/intl-es/track/3RIvQ3bLGsyHLJTPhiJfvx",
         "youtube": "https://music.youtube.com/watch?v=scFh589iCy0&si=UslcD53JL_yB4mcU",
         "portada": "img/portadas/luis-miguel-misterios-del-amor.png"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "1-1-2-enamorados",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "1 + 1 = 2 Enamorados",
+        "spotify": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k8ZoZSWNspkTzV-NXSzrMCl6rChaqW8lo&si=tNJCp-jEk1CN33BI",
+        "portada": "img/portadas/luis-miguel-1-1-2-enamorados.png"
     }
 ]
