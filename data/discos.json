@@ -511,5 +511,14 @@
         "spotify": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ndXP5UAv0QWWzTd3kUhcYRfw2YLoyU-q8&si=ZEBKnyQZpx130CAW",
         "portada": "img/portadas/luis-miguel-vivo.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "mexico-en-la-piel",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "México en la Piel",
+        "spotify": "https://open.spotify.com/intl-es/album/41VfVz6sKvbm1yCbqAlwfM",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lLEjn0bGT_GbZUrMNMXOl_-Uj_QgAEI7M&si=L2TBgfrDam15RQyV",
+        "portada": "img/portadas/luis-miguel-mexico-en-la-piel.webp"
     }
 ]
