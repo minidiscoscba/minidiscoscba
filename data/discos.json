@@ -655,5 +655,14 @@
         "spotify": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l3JtnnQKyo4yu_x3a1BExEOGob8QzRNOQ&si=Oe-nZ56JidLj-OLn",
         "portada": "img/portadas/karol-g-manana-sera-bonito-bichota-season.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "unstoppable",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "Unstoppable",
+        "spotify": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nJKV7FUypLkRvljhqQHTZaTGO7H1aLQHw&si=ObM0IiRzH7A1tDtY",
+        "portada": "img/portadas/karol-g-unstoppable.jpg"
     }
 ]
