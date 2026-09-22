@@ -700,5 +700,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/5CS8E6JVACItYto4OOJoPW",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nj1kwSWQ6_w0WAXtgMTbrDePgbnMncq0g&si=ZabexlpJfwVXbMFl",
         "portada": "img/portadas/karol-g-kg0516.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "ocean",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "OCEAN",
+        "spotify": "https://open.spotify.com/intl-es/album/4i5b4YWuMtneUSvQPONwzK",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mE5hayezOfD3Z20YAqXta5J4iiadckkj4&si=OLzqTxw52PthusYb",
+        "portada": "img/portadas/karol-g-ocean.jpg"
     }
 ]
