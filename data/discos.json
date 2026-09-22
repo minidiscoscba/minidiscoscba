@@ -628,5 +628,14 @@
         "spotify": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mvBHZU9Yfi2AS_ceoVJuuQyqOWtWqP27o&si=XGzscJYf_lVuj_G4",
         "portada": "img/portadas/thalia-habitame-siempre.webp"
+    },
+    {
+        "artista": "chayanne",
+        "album": "simplemente",
+        "nombreArtista": "Chayanne",
+        "nombreAlbum": "Simplemente",
+        "spotify": "https://open.spotify.com/intl-es/album/5ktMfzQRYlQawZcnmIB1VW",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mN9Jxa_bDdCBY5Zq9d_NQCGw2K99H3nIk&si=LKFsRud2KjWJaA42",
+        "portada": "img/portadas/chayanne-simplemente.jpg"
     }
 ]
