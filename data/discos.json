@@ -664,5 +664,14 @@
         "spotify": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nJKV7FUypLkRvljhqQHTZaTGO7H1aLQHw&si=ObM0IiRzH7A1tDtY",
         "portada": "img/portadas/karol-g-unstoppable.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "manana-sera-bonito",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "Mañana será bonito",
+        "spotify": "https://open.spotify.com/intl-es/album/4kS7bSuU0Jm9LYMosFU2x5",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kxrXb02KHgkUXgSCCRKXw18PL__dHD1a4&si=RHo_2IoZ7J-ivd-U",
+        "portada": "img/portadas/karol-g-manana-sera-bonito.jpg"
     }
 ]
