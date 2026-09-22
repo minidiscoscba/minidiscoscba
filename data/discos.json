@@ -601,5 +601,14 @@
         "spotify": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mgEMbjemWrzmC_hTyaMgiSANi-tJegEEY&si=HqcEhhCSdd6JkPSu",
         "portada": "img/portadas/luis-miguel-amarte-es-un-placer.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "el-concierto",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "El Concierto",
+        "spotify": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kiTXrrKZjifGnDQtEitTsui1ycP_BDsHI&si=X3-LAcL--760oekC",
+        "portada": "img/portadas/luis-miguel-el-concierto.jpg"
     }
 ]
