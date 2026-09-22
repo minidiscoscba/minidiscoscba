@@ -646,5 +646,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2B9q4KPjOEYu885Keo9dfX",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kon6QP2-kvj4UqzjR3w6857WIOgyxrGcg&si=icQx55XevU4e9TLP",
         "portada": "img/portadas/jack-johnson-in-between-dreams.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "manana-sera-bonito-bichota-season",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "spotify": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l3JtnnQKyo4yu_x3a1BExEOGob8QzRNOQ&si=Oe-nZ56JidLj-OLn",
+        "portada": "img/portadas/karol-g-manana-sera-bonito-bichota-season.jpg"
     }
 ]
