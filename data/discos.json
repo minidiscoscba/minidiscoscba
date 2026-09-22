@@ -637,5 +637,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/5ktMfzQRYlQawZcnmIB1VW",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mN9Jxa_bDdCBY5Zq9d_NQCGw2K99H3nIk&si=LKFsRud2KjWJaA42",
         "portada": "img/portadas/chayanne-simplemente.jpg"
+    },
+    {
+        "artista": "jack-johnson",
+        "album": "in-between-dreams",
+        "nombreArtista": "Jack Johnson",
+        "nombreAlbum": "In Between Dreams",
+        "spotify": "https://open.spotify.com/intl-es/album/2B9q4KPjOEYu885Keo9dfX",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kon6QP2-kvj4UqzjR3w6857WIOgyxrGcg&si=icQx55XevU4e9TLP",
+        "portada": "img/portadas/jack-johnson-in-between-dreams.jpg"
     }
 ]
