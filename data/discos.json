@@ -673,5 +673,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4kS7bSuU0Jm9LYMosFU2x5",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kxrXb02KHgkUXgSCCRKXw18PL__dHD1a4&si=RHo_2IoZ7J-ivd-U",
         "portada": "img/portadas/karol-g-manana-sera-bonito.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "no-me-arrepiento-de-sentir-tanto",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "spotify": "https://open.spotify.com/intl-es/album/7a0lnWtCz0eW15WsWu3dHQ",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l-FxwthtjJhSqRg9vT-kemRz5VY05PxWU&si=EzjD0xzYbYkS1TjL",
+        "portada": "img/portadas/karol-g-no-me-arrepiento-de-sentir-tanto.jpg"
     }
 ]
