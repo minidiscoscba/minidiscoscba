@@ -691,5 +691,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/0yY0fT7zibMEffhBJD9Nab",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kukH7AhYtP2tnOgd66YlxdnPYpE2wximM&si=oVjI0kdclBoADfTO",
         "portada": "img/portadas/karol-g-tropicoqueta.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "kg0516",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "KG0516",
+        "spotify": "https://open.spotify.com/intl-es/album/5CS8E6JVACItYto4OOJoPW",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nj1kwSWQ6_w0WAXtgMTbrDePgbnMncq0g&si=ZabexlpJfwVXbMFl",
+        "portada": "img/portadas/karol-g-kg0516.jpg"
     }
 ]
