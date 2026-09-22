@@ -682,5 +682,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/7a0lnWtCz0eW15WsWu3dHQ",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l-FxwthtjJhSqRg9vT-kemRz5VY05PxWU&si=EzjD0xzYbYkS1TjL",
         "portada": "img/portadas/karol-g-no-me-arrepiento-de-sentir-tanto.jpg"
+    },
+    {
+        "artista": "karol-g",
+        "album": "tropicoqueta",
+        "nombreArtista": "Karol G",
+        "nombreAlbum": "TROPICOQUETA",
+        "spotify": "https://open.spotify.com/intl-es/album/0yY0fT7zibMEffhBJD9Nab",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kukH7AhYtP2tnOgd66YlxdnPYpE2wximM&si=oVjI0kdclBoADfTO",
+        "portada": "img/portadas/karol-g-tropicoqueta.jpg"
     }
 ]
