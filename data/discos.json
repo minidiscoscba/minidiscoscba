@@ -610,5 +610,14 @@
         "spotify": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kiTXrrKZjifGnDQtEitTsui1ycP_BDsHI&si=X3-LAcL--760oekC",
         "portada": "img/portadas/luis-miguel-el-concierto.jpg"
+    },
+    {
+        "artista": "luis-miguel",
+        "album": "aries",
+        "nombreArtista": "Luis Miguel",
+        "nombreAlbum": "Aries",
+        "spotify": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lVBUsp3f2hPcg9r99g6O65-GgHVOKUEW4&si=V7KmTBDArazpUWO4",
+        "portada": "img/portadas/luis-miguel-aries.jpg"
     }
 ]
