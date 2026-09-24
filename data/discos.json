@@ -718,5 +718,14 @@
         "spotify": "https://open.spotify.com/album/6DjsgCJATDEtiHcnchIS6o",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lltvsHwxTiHXpjUsKTFYQ7vfep3uimXkg&si=RwnPWc8jYfSJRUjr",
         "portada": "img/portadas/la-mona-jimenez-seleccion-privada-vol-2.jpg"
+    },
+    {
+        "artista": "la-mona-jimenez",
+        "album": "en-vivo-90",
+        "nombreArtista": "La Mona Jiménez",
+        "nombreAlbum": "En Vivo 90",
+        "spotify": "https://open.spotify.com/intl-es/track/2v048xTXuNIGZvPpxa1XjH",
+        "youtube": "https://music.youtube.com/watch?v=Dsw_VDt1Sd0&si=iyMBfjuT4MMrC5pK",
+        "portada": "img/portadas/la-mona-jimenez-en-vivo-90.jpg"
     }
 ]
