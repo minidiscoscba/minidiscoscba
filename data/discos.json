@@ -709,5 +709,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4i5b4YWuMtneUSvQPONwzK",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mE5hayezOfD3Z20YAqXta5J4iiadckkj4&si=OLzqTxw52PthusYb",
         "portada": "img/portadas/karol-g-ocean.jpg"
+    },
+    {
+        "artista": "la-mona-jimenez",
+        "album": "seleccion-privada-vol-2",
+        "nombreArtista": "La Mona Jiménez",
+        "nombreAlbum": "Selección Privada Vol. 2",
+        "spotify": "https://open.spotify.com/album/6DjsgCJATDEtiHcnchIS6o",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lltvsHwxTiHXpjUsKTFYQ7vfep3uimXkg&si=RwnPWc8jYfSJRUjr",
+        "portada": "img/portadas/la-mona-jimenez-seleccion-privada-vol-2.jpg"
     }
 ]
