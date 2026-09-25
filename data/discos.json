@@ -727,5 +727,14 @@
         "spotify": "https://open.spotify.com/intl-es/track/2v048xTXuNIGZvPpxa1XjH",
         "youtube": "https://music.youtube.com/watch?v=Dsw_VDt1Sd0&si=iyMBfjuT4MMrC5pK",
         "portada": "img/portadas/la-mona-jimenez-en-vivo-90.jpg"
+    },
+    {
+        "artista": "taylor-swift",
+        "album": "folklore",
+        "nombreArtista": "Taylor Swift",
+        "nombreAlbum": "Folklore",
+        "spotify": "https://open.spotify.com/intl-es/album/2fenSS68JI1h4Fo296JfGr",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lAQWiZVWU7ImDOQV9WsKjMAlLXSfWROXU&si=JxifDJMNgCwvDjlr",
+        "portada": "img/portadas/taylor-swift-folklore.webp"
     }
 ]
