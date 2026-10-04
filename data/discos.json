@@ -736,5 +736,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2fenSS68JI1h4Fo296JfGr",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lAQWiZVWU7ImDOQV9WsKjMAlLXSfWROXU&si=JxifDJMNgCwvDjlr",
         "portada": "img/portadas/taylor-swift-folklore.webp"
+    },
+    {
+        "artista": "no-te-va-gustar",
+        "album": "el-calor-del-pleno-invierno",
+        "nombreArtista": "No Te Va Gustar",
+        "nombreAlbum": "El Calor Del Pleno Invierno",
+        "spotify": "https://open.spotify.com/intl-es/album/1rfWo44UYWqM3a99Vknlc3",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ncw6WFEqfqMLgxicWqZ1ixpcK8Gdtitao&si=ZCZazAyK9sfYb-6C",
+        "portada": "img/portadas/no-te-va-gustar-el-calor-del-pleno-invierno.jpg"
     }
 ]
