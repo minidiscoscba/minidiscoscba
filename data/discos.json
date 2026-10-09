@@ -763,5 +763,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/3w5AZnbgckUFu8kcH79DAr",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k676eYIzL3nJue8Cjo1T55AsXynSVp8j8&si=Gl6sph2AH-QqP9d_",
         "portada": "img/portadas/seru-giran-yo-no-quiero-volverme-tan-loco-en-vivo.webp"
+    },
+    {
+        "artista": "david-lebon",
+        "album": "david-lebon",
+        "nombreArtista": "David Lebon",
+        "nombreAlbum": "David Lebon",
+        "spotify": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lLaha47zc7AuyZo87SGu56DIgXKjxxfDE&si=TmMiZa9L6nwHpmkS",
+        "portada": "img/portadas/david-lebon-david-lebon.jpg"
     }
 ]
