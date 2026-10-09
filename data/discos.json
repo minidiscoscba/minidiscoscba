@@ -772,5 +772,14 @@
         "spotify": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lLaha47zc7AuyZo87SGu56DIgXKjxxfDE&si=TmMiZa9L6nwHpmkS",
         "portada": "img/portadas/david-lebon-david-lebon.jpg"
+    },
+    {
+        "artista": "marca-lolo",
+        "album": "marca-lolo",
+        "nombreArtista": "Marca Lolo",
+        "nombreAlbum": "Marca Lolo",
+        "spotify": "https://open.spotify.com/intl-es/artist/6dJlj4MePtSnyOs3MaK0Jr",
+        "youtube": "https://music.youtube.com/channel/UC3KeJpQPPnJHbuQqseDjy2g?si=0oPBIdoM2LG6t4Pa",
+        "portada": "img/portadas/marca-lolo-marca-lolo.jpg"
     }
 ]
