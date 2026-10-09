@@ -754,5 +754,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/50Zdj0roBpH99wAbEy8BmI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mawPWiUXRmp1684D9K6WibztNg8tjxSNc&si=5ObTQ2SVXwugB_zp",
         "portada": "img/portadas/seru-giran-la-grasa-de-las-capitales.webp"
+    },
+    {
+        "artista": "seru-giran",
+        "album": "yo-no-quiero-volverme-tan-loco-en-vivo",
+        "nombreArtista": "Serú Girán",
+        "nombreAlbum": "Yo No Quiero Volverme Tan Loco (En Vivo)",
+        "spotify": "https://open.spotify.com/intl-es/album/3w5AZnbgckUFu8kcH79DAr",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k676eYIzL3nJue8Cjo1T55AsXynSVp8j8&si=Gl6sph2AH-QqP9d_",
+        "portada": "img/portadas/seru-giran-yo-no-quiero-volverme-tan-loco-en-vivo.webp"
     }
 ]
