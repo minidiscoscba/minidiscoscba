@@ -745,5 +745,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1rfWo44UYWqM3a99Vknlc3",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ncw6WFEqfqMLgxicWqZ1ixpcK8Gdtitao&si=ZCZazAyK9sfYb-6C",
         "portada": "img/portadas/no-te-va-gustar-el-calor-del-pleno-invierno.jpg"
+    },
+    {
+        "artista": "seru-giran",
+        "album": "la-grasa-de-las-capitales",
+        "nombreArtista": "Serú Girán",
+        "nombreAlbum": "La Grasa de las Capitales",
+        "spotify": "https://open.spotify.com/intl-es/album/50Zdj0roBpH99wAbEy8BmI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mawPWiUXRmp1684D9K6WibztNg8tjxSNc&si=5ObTQ2SVXwugB_zp",
+        "portada": "img/portadas/seru-giran-la-grasa-de-las-capitales.webp"
     }
 ]
