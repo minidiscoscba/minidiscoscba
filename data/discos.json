@@ -790,5 +790,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/6LP2T6ARkvQcoqBornwcox",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ngOYzt79K3mLHsyP6mr0rumdwXAQpeSLM&si=VyV6qFpQ9KYNLuTg",
         "portada": "img/portadas/luciano-pereyra-hasta-el-alma.jpg"
+    },
+    {
+        "artista": "luciano-pereyra",
+        "album": "la-vida-al-viento",
+        "nombreArtista": "Luciano Pereyra",
+        "nombreAlbum": "La Vida Al Viento",
+        "spotify": "https://open.spotify.com/intl-es/album/01DlTlGo79EZmSX0QIqTtp",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lalZ3FGjloyoMYfteiCNI7KoTz7FS1HzE&si=6RNkFjxZjjKg3ARA",
+        "portada": "img/portadas/luciano-pereyra-la-vida-al-viento.jpg"
     }
 ]
