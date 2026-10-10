@@ -799,5 +799,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/01DlTlGo79EZmSX0QIqTtp",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lalZ3FGjloyoMYfteiCNI7KoTz7FS1HzE&si=6RNkFjxZjjKg3ARA",
         "portada": "img/portadas/luciano-pereyra-la-vida-al-viento.jpg"
+    },
+    {
+        "artista": "luciano-pereyra",
+        "album": "tu-mano",
+        "nombreArtista": "Luciano Pereyra",
+        "nombreAlbum": "Tu Mano",
+        "spotify": "https://open.spotify.com/intl-es/album/0ofPx6C6bKrF23aZbDwbLR",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lfUz7g_eueDuY6BR_II_3fVzva8zvyj2A&si=2bBaneBMFpRfU4_g",
+        "portada": "img/portadas/luciano-pereyra-tu-mano.jpg"
     }
 ]
