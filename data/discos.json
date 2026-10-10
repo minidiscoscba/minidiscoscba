@@ -817,5 +817,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/75UJv8LULojeRTLWrhHPOf",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mBtbk9KYfm9bicjal9Nw0aQ1gAvuEIZFk&si=_omy-HwPWFW6yGn1",
         "portada": "img/portadas/luciano-pereyra-soy-tuyo.jpg"
+    },
+    {
+        "artista": "airbag",
+        "album": "el-club-de-la-pelea",
+        "nombreArtista": "Airbag",
+        "nombreAlbum": "El Club de la Pelea",
+        "spotify": "https://open.spotify.com/intl-es/album/2tS4bTMTcGhnQSFp4rmflf",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l7HDOPSTFEU2jcWvqwd9Ipz3HkefhtByk&si=30kWMqGRXs0gQSG4",
+        "portada": "img/portadas/airbag-el-club-de-la-pelea.jpg"
     }
 ]
