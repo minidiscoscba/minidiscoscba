@@ -808,5 +808,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/0ofPx6C6bKrF23aZbDwbLR",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lfUz7g_eueDuY6BR_II_3fVzva8zvyj2A&si=2bBaneBMFpRfU4_g",
         "portada": "img/portadas/luciano-pereyra-tu-mano.jpg"
+    },
+    {
+        "artista": "luciano-pereyra",
+        "album": "soy-tuyo",
+        "nombreArtista": "Luciano Pereyra",
+        "nombreAlbum": "Soy Tuyo",
+        "spotify": "https://open.spotify.com/intl-es/album/75UJv8LULojeRTLWrhHPOf",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mBtbk9KYfm9bicjal9Nw0aQ1gAvuEIZFk&si=_omy-HwPWFW6yGn1",
+        "portada": "img/portadas/luciano-pereyra-soy-tuyo.jpg"
     }
 ]
