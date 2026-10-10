@@ -781,5 +781,14 @@
         "spotify": "https://open.spotify.com/intl-es/artist/6dJlj4MePtSnyOs3MaK0Jr",
         "youtube": "https://music.youtube.com/channel/UC3KeJpQPPnJHbuQqseDjy2g?si=0oPBIdoM2LG6t4Pa",
         "portada": "img/portadas/marca-lolo-marca-lolo.jpg"
+    },
+    {
+        "artista": "luciano-pereyra",
+        "album": "hasta-el-alma",
+        "nombreArtista": "Luciano Pereyra",
+        "nombreAlbum": "Hasta El Alma",
+        "spotify": "https://open.spotify.com/intl-es/album/6LP2T6ARkvQcoqBornwcox",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ngOYzt79K3mLHsyP6mr0rumdwXAQpeSLM&si=VyV6qFpQ9KYNLuTg",
+        "portada": "img/portadas/luciano-pereyra-hasta-el-alma.jpg"
     }
 ]
