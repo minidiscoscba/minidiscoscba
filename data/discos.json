@@ -826,5 +826,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/2tS4bTMTcGhnQSFp4rmflf",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l7HDOPSTFEU2jcWvqwd9Ipz3HkefhtByk&si=30kWMqGRXs0gQSG4",
         "portada": "img/portadas/airbag-el-club-de-la-pelea.jpg"
+    },
+    {
+        "artista": "patricio-rey-y-sus-redonditos-de-ricota",
+        "album": "oktubre",
+        "nombreArtista": "Patricio Rey y sus Redonditos de Ricota",
+        "nombreAlbum": "Oktubre",
+        "spotify": "https://open.spotify.com/intl-es/album/0TmPRZoau8M0QIfnMgwrlI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lNPub5OKWete2AX52_SH78O4ahHY33A-0&si=X7T5bfMoLeD9yrp6",
+        "portada": "img/portadas/patricio-rey-y-sus-redonditos-de-ricota-oktubre.jpg"
     }
 ]
