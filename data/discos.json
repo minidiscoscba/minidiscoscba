@@ -844,5 +844,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/1URI8tAdlj71xOw6k9UB40",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lzA9q127RxN_Ex7ilZpILOh5SCo26LLRs&si=xEfuMHX_8bT6ZCOS",
         "portada": "img/portadas/el-toro-acuna-marcando-la-diferencia.jpg"
+    },
+    {
+        "artista": "airbag",
+        "album": "al-parecer-todo-ha-sido-una-trampa",
+        "nombreArtista": "Airbag",
+        "nombreAlbum": "Al Parecer Todo Ha Sido una Trampa",
+        "spotify": "https://open.spotify.com/intl-es/album/25wv6eU2tDQDPLAYTyuj2Q",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nszODUYNxhal3SRunPh7iX0AvwUxrKXJE&si=i_g26EIT96ajJX4P",
+        "portada": "img/portadas/airbag-al-parecer-todo-ha-sido-una-trampa.jpg"
     }
 ]
