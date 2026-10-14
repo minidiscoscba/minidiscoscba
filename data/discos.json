@@ -835,5 +835,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/0TmPRZoau8M0QIfnMgwrlI",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lNPub5OKWete2AX52_SH78O4ahHY33A-0&si=X7T5bfMoLeD9yrp6",
         "portada": "img/portadas/patricio-rey-y-sus-redonditos-de-ricota-oktubre.jpg"
+    },
+    {
+        "artista": "el-toro-acuna",
+        "album": "marcando-la-diferencia",
+        "nombreArtista": "El Toro Acuña",
+        "nombreAlbum": "Marcando la diferencia",
+        "spotify": "https://open.spotify.com/intl-es/album/1URI8tAdlj71xOw6k9UB40",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lzA9q127RxN_Ex7ilZpILOh5SCo26LLRs&si=xEfuMHX_8bT6ZCOS",
+        "portada": "img/portadas/el-toro-acuna-marcando-la-diferencia.jpg"
     }
 ]
