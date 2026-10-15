@@ -898,5 +898,14 @@
         "spotify": "https://open.spotify.com/album/3d8PgugipQ9x8uLNPdNULZ",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mosXAvLrkL8SmJOzO81VUUW17BILZzhPM&si=GhJEIkl8KXLMkNsp",
         "portada": "img/portadas/la-renga-truenotierra.jpg"
+    },
+    {
+        "artista": "amy-winehouse",
+        "album": "back-to-black",
+        "nombreArtista": "Amy Winehouse",
+        "nombreAlbum": "Back To Black",
+        "spotify": "https://open.spotify.com/intl-es/album/097eYvf9NKjFnv4xA9s2oV",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_npRBuLAsWlsUFKt4BNWrjUF0nErmyMXVs&si=E2XcapeFoTdE8ZE6",
+        "portada": "img/portadas/amy-winehouse-back-to-black.jpg"
     }
 ]
