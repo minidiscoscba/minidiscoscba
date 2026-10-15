@@ -853,5 +853,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/25wv6eU2tDQDPLAYTyuj2Q",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nszODUYNxhal3SRunPh7iX0AvwUxrKXJE&si=i_g26EIT96ajJX4P",
         "portada": "img/portadas/airbag-al-parecer-todo-ha-sido-una-trampa.jpg"
+    },
+    {
+        "artista": "la-renga",
+        "album": "detonador-de-suenos",
+        "nombreArtista": "La Renga",
+        "nombreAlbum": "Detonador de Sueños",
+        "spotify": "https://open.spotify.com/intl-es/album/3Ddw0PoboR3X6KN5ZmYFNR",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lgiNTPux4cidnjoe5Td9AksptpNVV1SPM&si=tTC2hiTQ3AI-EwB8",
+        "portada": "img/portadas/la-renga-detonador-de-suenos.png"
     }
 ]
