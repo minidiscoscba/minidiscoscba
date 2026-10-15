@@ -871,5 +871,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/0eH6ICTcUbNqjplgRISQEg",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k6D9zXuyYql53DvYdZx9Y_wI5S8R7xM6w&si=3jV-XBoc8rk2SLif",
         "portada": "img/portadas/la-renga-despedazado-por-mil-partes.jpg"
+    },
+    {
+        "artista": "la-renga",
+        "album": "la-renga",
+        "nombreArtista": "La Renga",
+        "nombreAlbum": "La Renga",
+        "spotify": "https://open.spotify.com/intl-es/album/58M6gPLnHqTnE5z2dRbKNH",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mni85a3f9ByUCT8EIiactfrzRwd1Nc1jE&si=Z_NeGRg-m2PwezJW",
+        "portada": "img/portadas/la-renga-la-renga.jpg"
     }
 ]
