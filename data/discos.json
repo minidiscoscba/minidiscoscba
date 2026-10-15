@@ -889,5 +889,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/4M0ydzwbRw8c1RV07TpMX9",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mRy1qaQTs4RilgrS7snLGi2kMd-imOfoI&si=N3YlD-rtzJMUCBX8",
         "portada": "img/portadas/la-renga-la-esquina-del-infinito.jpg"
+    },
+    {
+        "artista": "la-renga",
+        "album": "truenotierra",
+        "nombreArtista": "La Renga",
+        "nombreAlbum": "Truenotierra",
+        "spotify": "https://open.spotify.com/album/3d8PgugipQ9x8uLNPdNULZ",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mosXAvLrkL8SmJOzO81VUUW17BILZzhPM&si=GhJEIkl8KXLMkNsp",
+        "portada": "img/portadas/la-renga-truenotierra.jpg"
     }
 ]
