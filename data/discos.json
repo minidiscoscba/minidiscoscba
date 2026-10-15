@@ -880,5 +880,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/58M6gPLnHqTnE5z2dRbKNH",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mni85a3f9ByUCT8EIiactfrzRwd1Nc1jE&si=Z_NeGRg-m2PwezJW",
         "portada": "img/portadas/la-renga-la-renga.jpg"
+    },
+    {
+        "artista": "la-renga",
+        "album": "la-esquina-del-infinito",
+        "nombreArtista": "La Renga",
+        "nombreAlbum": "La Esquina Del Infinito",
+        "spotify": "https://open.spotify.com/intl-es/album/4M0ydzwbRw8c1RV07TpMX9",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mRy1qaQTs4RilgrS7snLGi2kMd-imOfoI&si=N3YlD-rtzJMUCBX8",
+        "portada": "img/portadas/la-renga-la-esquina-del-infinito.jpg"
     }
 ]
