@@ -862,5 +862,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/3Ddw0PoboR3X6KN5ZmYFNR",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lgiNTPux4cidnjoe5Td9AksptpNVV1SPM&si=tTC2hiTQ3AI-EwB8",
         "portada": "img/portadas/la-renga-detonador-de-suenos.png"
+    },
+    {
+        "artista": "la-renga",
+        "album": "despedazado-por-mil-partes",
+        "nombreArtista": "La Renga",
+        "nombreAlbum": "Despedazado Por Mil Partes",
+        "spotify": "https://open.spotify.com/intl-es/album/0eH6ICTcUbNqjplgRISQEg",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k6D9zXuyYql53DvYdZx9Y_wI5S8R7xM6w&si=3jV-XBoc8rk2SLif",
+        "portada": "img/portadas/la-renga-despedazado-por-mil-partes.jpg"
     }
 ]
