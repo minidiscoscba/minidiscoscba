@@ -916,5 +916,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/5vD5M5VW62LL78Ko8x0CVZ",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k9gKPBG9lfSk-kB0nNZ33U1YpqRTabewg&si=8IF4Gnwmd5TRMBGX",
         "portada": "img/portadas/justin-bieber-swag.jpg"
+    },
+    {
+        "artista": "nsqk",
+        "album": "this-is-nsqk",
+        "nombreArtista": "Nsqk",
+        "nombreAlbum": "This is... Nsqk",
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IxXXj",
+        "youtube": "https://music.youtube.com/@nsqkk?si=aQkoeoR2ie4LUOdj",
+        "portada": "img/portadas/nsqk-this-is-nsqk.jpg"
     }
 ]
