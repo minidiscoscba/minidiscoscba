@@ -925,5 +925,14 @@
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IxXXj",
         "youtube": "https://music.youtube.com/@nsqkk?si=aQkoeoR2ie4LUOdj",
         "portada": "img/portadas/nsqk-this-is-nsqk.jpg"
+    },
+    {
+        "artista": "banda-xxi",
+        "album": "en-vivo-villa-dolores-2004",
+        "nombreArtista": "Banda XXI",
+        "nombreAlbum": "EN VIVO - VILLA DOLORES - 2004",
+        "spotify": "https://open.spotify.com/intl-es/artist/4She1focTkX0pwpJUtS5eo",
+        "youtube": "https://www.youtube.com/watch?v=i34PmgGjtDQ",
+        "portada": "img/portadas/banda-xxi-en-vivo-villa-dolores-2004.png"
     }
 ]
