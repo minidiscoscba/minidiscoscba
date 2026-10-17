@@ -934,5 +934,14 @@
         "spotify": "https://open.spotify.com/intl-es/artist/4She1focTkX0pwpJUtS5eo",
         "youtube": "https://www.youtube.com/watch?v=i34PmgGjtDQ",
         "portada": "img/portadas/banda-xxi-en-vivo-villa-dolores-2004.png"
+    },
+    {
+        "artista": "sandy-papo",
+        "album": "sandy-papo-mc",
+        "nombreArtista": "Sandy & Papo",
+        "nombreAlbum": "Sandy & Papo MC",
+        "spotify": "https://open.spotify.com/intl-es/album/6W81jH29u4tqW0Yrvdhe88",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m67bSScbu-rqT8AwUzdqdYUii0jJ025bU&si=ZSSoIwKYLdo10M1_",
+        "portada": "img/portadas/sandy-papo-sandy-papo-mc.jpg"
     }
 ]
