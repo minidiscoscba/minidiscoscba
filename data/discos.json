@@ -961,5 +961,14 @@
         "spotify": "https://open.spotify.com/album/1YIukATBVojGobmEEy4Qjl",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ks8IZzqUP5FXoGa3A-oMI7Op4ZeuL9dzM&si=DVA1-DXVu6LuW7eo",
         "portada": "img/portadas/jean-carlos-elegido-por-la-gente.jpg"
+    },
+    {
+        "artista": "eugenia-quevedo",
+        "album": "la-muela",
+        "nombreArtista": "Eugenia Quevedo",
+        "nombreAlbum": "La Muela",
+        "spotify": "https://open.spotify.com/intl-es/album/6WzhVhSpUYapmLPEpE5GsR",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nQWdtbZ2vC5Rxc_ojSwMIdmoJARdzBQ8M&si=t1MhAsLC_papuEYF",
+        "portada": "img/portadas/eugenia-quevedo-la-muela.jpg"
     }
 ]
