@@ -952,5 +952,14 @@
         "spotify": "https://open.spotify.com/album/3MmSFKtL9ZefJXi3wkgWLv",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m6DoEiLJcQr0KjVc0sHBggfJcIYW1pmag&si=gu-pjXU7KMc65sTk",
         "portada": "img/portadas/jean-carlos-en-vivo-en-el-teatro-opera.jpg"
+    },
+    {
+        "artista": "jean-carlos",
+        "album": "elegido-por-la-gente",
+        "nombreArtista": "Jean Carlos",
+        "nombreAlbum": "Elegido por la Gente",
+        "spotify": "https://open.spotify.com/album/1YIukATBVojGobmEEy4Qjl",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ks8IZzqUP5FXoGa3A-oMI7Op4ZeuL9dzM&si=DVA1-DXVu6LuW7eo",
+        "portada": "img/portadas/jean-carlos-elegido-por-la-gente.jpg"
     }
 ]
