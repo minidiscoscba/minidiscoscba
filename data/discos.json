@@ -943,5 +943,14 @@
         "spotify": "https://open.spotify.com/intl-es/album/6W81jH29u4tqW0Yrvdhe88",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m67bSScbu-rqT8AwUzdqdYUii0jJ025bU&si=ZSSoIwKYLdo10M1_",
         "portada": "img/portadas/sandy-papo-sandy-papo-mc.jpg"
+    },
+    {
+        "artista": "jean-carlos",
+        "album": "en-vivo-en-el-teatro-opera",
+        "nombreArtista": "Jean Carlos",
+        "nombreAlbum": "En Vivo en el Teatro Ópera",
+        "spotify": "https://open.spotify.com/album/3MmSFKtL9ZefJXi3wkgWLv",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m6DoEiLJcQr0KjVc0sHBggfJcIYW1pmag&si=gu-pjXU7KMc65sTk",
+        "portada": "img/portadas/jean-carlos-en-vivo-en-el-teatro-opera.jpg"
     }
 ]
