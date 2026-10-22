@@ -970,5 +970,19 @@
         "spotify": "https://open.spotify.com/intl-es/album/6WzhVhSpUYapmLPEpE5GsR",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nQWdtbZ2vC5Rxc_ojSwMIdmoJARdzBQ8M&si=t1MhAsLC_papuEYF",
         "portada": "img/portadas/eugenia-quevedo-la-muela.jpg"
+    },
+    {
+        "artista": "artista-prueba-comercial",
+        "album": "prueba-redes-2026",
+        "nombreArtista": "Artista Prueba Comercial",
+        "nombreAlbum": "Prueba Redes 2026",
+        "spotify": "",
+        "youtube": "https://www.youtube.com/@MiniDiscosCBA",
+        "modo": "comercial",
+        "instagramArtista": "https://www.instagram.com/mariano_moyano/",
+        "tiktok": "https://www.tiktok.com/@mariano_moyano",
+        "facebook": "https://www.facebook.com/mariano.moyano.501/",
+        "webOficial": "",
+        "portada": ""
     }
 ]
