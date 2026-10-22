@@ -984,5 +984,19 @@
         "facebook": "https://www.facebook.com/mariano.moyano.501/",
         "webOficial": "",
         "portada": ""
+    },
+    {
+        "artista": "luciano-pereyra",
+        "album": "ahora-las-bailamos",
+        "nombreArtista": "Luciano Pereyra",
+        "nombreAlbum": "Ahora Las Bailamos",
+        "spotify": "https://open.spotify.com/intl-es/album/6xL8EC59Tm7su6NXy7s4Bs",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mdV04Gzw1o3SvdeZnBzaF3ugvHvqAYMOM&si=CNQZHLX27gLj_oVx",
+        "modo": "comercial",
+        "instagramArtista": "https://www.instagram.com/lucianopereyraoficial/",
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/lucianopereyraoficial",
+        "webOficial": "https://lucianopereyra.com/",
+        "portada": "img/portadas/luciano-pereyra-ahora-las-bailamos.jpg"
     }
 ]
