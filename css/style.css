@@ -115,7 +115,7 @@ body{
     margin:25px 0;
 }
 
-..item{
+.item{
     background:#1e293b;
     border-radius:16px;
     padding:18px 10px;
@@ -229,3 +229,8 @@ footer{
     }
 
 }
+[hidden]{display:none!important}
+.tiktok{background:#111;color:#fff}.facebook{background:#1877f2;color:#fff}.weboficial{background:#475569;color:#fff}
+body.modo-comercial{background:linear-gradient(135deg,#111827,#1f2937)}
+body.modo-comercial .contenedor{padding-top:28px}
+body.modo-comercial .tarjeta{margin-top:12px}
