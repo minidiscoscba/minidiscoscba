@@ -1020,11 +1020,11 @@
         "nombreAlbum": "11",
         "spotify": "https://open.spotify.com/intl-es/album/5dpzYigmd97HcZOxWMpv9h",
         "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lBxK7Mp333FomC4ytR2WUx1UcU6fvA4eA&si=II5qgE7aNOI9BN_q",
-        "modo": "habitual",
-        "instagramArtista": "",
-        "tiktok": "",
-        "facebook": "",
-        "webOficial": "",
+        "modo": "comercial",
+        "instagramArtista": "https://www.instagram.com/abelpintos/?hl=es-la",
+        "tiktok": "https://www.tiktok.com/@abel.pintos.musica?is_from_webapp=1&sender_device=pc",
+        "facebook": "https://www.facebook.com/oficial.abelpintos/",
+        "webOficial": "https://abel.art/",
         "portada": "img/portadas/abel-pintos-11.jpg"
     }
 ]
