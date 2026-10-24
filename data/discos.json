@@ -1110,5 +1110,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/soledad-vale-la-pena.jpg"
+    },
+    {
+        "artista": "adriana-varela",
+        "album": "vivo",
+        "nombreArtista": "Adriana Varela",
+        "nombreAlbum": "Vivo",
+        "spotify": "https://open.spotify.com/album/4o138i1lGkq4KTv04fePfW",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nzbkaNjwPnegWvub-4-gYzHaEWn0Fit8U&si=Xmg0jkgHcoW2veWa",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/adriana-varela-vivo.webp"
     }
 ]
