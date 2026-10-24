@@ -1096,5 +1096,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/robbie-williams-sing-when-you-re-winning.jpg"
+    },
+    {
+        "artista": "soledad",
+        "album": "vale-la-pena",
+        "nombreArtista": "Soledad",
+        "nombreAlbum": "Vale La Pena",
+        "spotify": "https://open.spotify.com/intl-es/album/7DaMdJrdjLVGljTf9FKFoY",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mkV2B7qWk4uG9uyO5shCKyEpo2bJPVCPw&si=MOinEJrvHVaeJi-V",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/soledad-vale-la-pena.jpg"
     }
 ]
