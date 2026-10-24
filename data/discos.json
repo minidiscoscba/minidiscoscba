@@ -1040,5 +1040,19 @@
         "facebook": "https://www.facebook.com/oficial.abelpintos/",
         "webOficial": "https://abel.art/",
         "portada": "img/portadas/abel-pintos-exitos.png"
+    },
+    {
+        "artista": "bts",
+        "album": "arirang",
+        "nombreArtista": "BTS",
+        "nombreAlbum": "ARIRANG",
+        "spotify": "https://open.spotify.com/intl-es/album/3ukkRHDHbN8tNRPKsGZR1h",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n2z-As3TqFt61RnhDrmJDZCSpk3muFdXA&si=WxAoG-GSoLqYnFSg",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/bts-arirang.jpg"
     }
 ]
