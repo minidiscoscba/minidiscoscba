@@ -1082,5 +1082,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/bts-young-forever.jpg"
+    },
+    {
+        "artista": "robbie-williams",
+        "album": "sing-when-you-re-winning",
+        "nombreArtista": "Robbie Williams",
+        "nombreAlbum": "Sing When You're Winning",
+        "spotify": "https://open.spotify.com/intl-es/album/11DmTQm7WPeSXih1FPuaXL",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k1qJ2pEvX4yccqRfxNEcG0-9y8pPvWGG8&si=hRALQpGHjquoyv80",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/robbie-williams-sing-when-you-re-winning.jpg"
     }
 ]
