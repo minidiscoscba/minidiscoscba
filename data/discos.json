@@ -1138,5 +1138,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/tini-futttura-live.jpg"
+    },
+    {
+        "artista": "alice-in-chains",
+        "album": "unplugged",
+        "nombreArtista": "Alice In Chains",
+        "nombreAlbum": "Unplugged",
+        "spotify": "https://open.spotify.com/playlist/05fnXZl4rqT6oOJpG3xITQ",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_maPl9G0e-iNrbDn_jb3jHMhK-If3060s0&si=4ml1dBXjWVnDWiBU",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/alice-in-chains-unplugged.jpg"
     }
 ]
