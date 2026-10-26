@@ -1166,5 +1166,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/minidiscos-cba-bingo-musical.png"
+    },
+    {
+        "artista": "soledad",
+        "album": "natural",
+        "nombreArtista": "Soledad",
+        "nombreAlbum": "Natural",
+        "spotify": "https://open.spotify.com/intl-es/album/6vmXyjSgcNzzi7Zd1ikhvx",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nA_Zm_ejVU_cv14rmk6KgNBfHSDnjiVB0&si=PspY816A8OFcVBTm",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/soledad-natural.jpg"
     }
 ]
