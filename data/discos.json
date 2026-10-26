@@ -1151,6 +1151,20 @@
         "tiktok": "",
         "facebook": "",
         "webOficial": "",
-       "portada": "img/portadas/alice-in-chains-unplugged.png"
+        "portada": "img/portadas/alice-in-chains-unplugged.png"
+    },
+    {
+        "artista": "minidiscos-cba",
+        "album": "bingo-musical",
+        "nombreArtista": "Minidiscos CBA",
+        "nombreAlbum": "Bingo Musical",
+        "spotify": "https://open.spotify.com/playlist/0vCi4UTK58gFwjQSlfhK1P",
+        "youtube": "https://music.youtube.com/playlist?list=PLbtICgU11soA&si=ncO88QPwJ6UZqspx",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/minidiscos-cba-bingo-musical.png"
     }
 ]
