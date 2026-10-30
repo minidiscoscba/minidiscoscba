@@ -1194,5 +1194,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/soledad-parte-de-mi.jpg"
+    },
+    {
+        "artista": "eri",
+        "album": "feliz-cumple",
+        "nombreArtista": "Eri",
+        "nombreAlbum": "Feliz Cumple",
+        "spotify": "https://open.spotify.com/playlist/10Yphkt8bkZHSfChVFD3XV",
+        "youtube": "https://music.youtube.com/playlist?list=PLGGse2RBAIhk&si=248rYZCI4WEZ-z1m",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/eri-feliz-cumple.png"
     }
 ]
