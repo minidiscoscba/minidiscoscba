@@ -1208,5 +1208,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/eri-feliz-cumple.png"
+    },
+    {
+        "artista": "marcela-morelo",
+        "album": "la-morelo",
+        "nombreArtista": "Marcela Morelo",
+        "nombreAlbum": "La Morelo",
+        "spotify": "https://open.spotify.com/intl-es/album/5V2xcWQXx5wFITRnzeFoyI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ls0mwaXn3m5aLNnKbav1gaOjBrewgo9wI&si=Y7q1rxDS5V1yv1hI",
+        "modo": "comercial",
+        "instagramArtista": "https://www.instagram.com/marcelamorelook",
+        "tiktok": "https://www.tiktok.com/@marcelamorelooficial",
+        "facebook": "https://www.facebook.com/MarcelaMoreloOficial",
+        "webOficial": "https://linktr.ee/marcelamorelooficial",
+        "portada": "img/portadas/marcela-morelo-la-morelo.jpg"
     }
 ]
