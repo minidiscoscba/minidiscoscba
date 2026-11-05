@@ -1278,5 +1278,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/bom-miranda-y-lali-bailar-o-morir.jpg"
+    },
+    {
+        "artista": "abel-pintos",
+        "album": "ibuprofeno",
+        "nombreArtista": "Abel Pintos",
+        "nombreAlbum": "Ibuprofeno",
+        "spotify": "https://open.spotify.com/intl-es/album/4M0FtNvmDSyTaHPUidw1Cp",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kFXn9ERPu0deXH9_94JOklJKqU2TSeWsU&si=F0MAh4hRIyphUp1S",
+        "modo": "comercial",
+        "instagramArtista": "https://www.instagram.com/abelpintos/",
+        "tiktok": "https://www.tiktok.com/@abel.pintos.musica",
+        "facebook": "https://www.facebook.com/oficial.abelpintos/",
+        "webOficial": "https://abel.art/",
+        "portada": "img/portadas/abel-pintos-ibuprofeno.jpg"
     }
 ]
