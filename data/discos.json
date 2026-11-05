@@ -1292,5 +1292,19 @@
         "facebook": "https://www.facebook.com/oficial.abelpintos/",
         "webOficial": "https://abel.art/",
         "portada": "img/portadas/abel-pintos-ibuprofeno.jpg"
+    },
+    {
+        "artista": "abel-pintos",
+        "album": "la-culpa",
+        "nombreArtista": "Abel Pintos",
+        "nombreAlbum": "La Culpa",
+        "spotify": "https://open.spotify.com/intl-es/album/5MylN9GEeCmHKjhQnYjaTC",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mkU-ll0rWEe3Oaue6-f5YHZj890Nf6_SA&si=vVZpwt2riGE9xGBR",
+        "modo": "comercial",
+        "instagramArtista": "https://www.instagram.com/abelpintos/",
+        "tiktok": "https://www.tiktok.com/@abel.pintos.musica",
+        "facebook": "https://www.facebook.com/oficial.abelpintos/",
+        "webOficial": "https://abel.art/",
+        "portada": "img/portadas/abel-pintos-la-culpa.jpg"
     }
 ]
