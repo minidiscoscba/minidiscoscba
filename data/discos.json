@@ -1334,5 +1334,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/gustavo-cerati-bocanada.jpg"
+    },
+    {
+        "artista": "thalia",
+        "album": "navidad-melancolica-deluxe",
+        "nombreArtista": "Thalia",
+        "nombreAlbum": "Navidad Melancólica Deluxe",
+        "spotify": "https://open.spotify.com/intl-es/album/5mmqb9bqtsvXTo51TF4BbT",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mDIfI_9SImN7NxC14j8SBKfTDVwQ0uxKE&si=v2oFCtixGUBNqFrD",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/thalia-navidad-melancolica-deluxe.jpg"
     }
 ]
