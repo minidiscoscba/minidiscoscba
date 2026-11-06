@@ -1320,5 +1320,19 @@
         "facebook": "https://www.facebook.com/oficial.abelpintos/",
         "webOficial": "https://abel.art/",
         "portada": "img/portadas/abel-pintos-todo-de-mi.jpg"
+    },
+    {
+        "artista": "gustavo-cerati",
+        "album": "bocanada",
+        "nombreArtista": "Gustavo Cerati",
+        "nombreAlbum": "Bocanada",
+        "spotify": "https://open.spotify.com/intl-es/album/2rIdWbXPjcq8K7BCccBhhC",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nlbFbx2_8gl5PC-muumqcy0T-BG7Xy0Zw&si=2OVgFLF7eEboXLkz",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/gustavo-cerati-bocanada.jpg"
     }
 ]
