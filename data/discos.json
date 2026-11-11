@@ -1432,5 +1432,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-lo-mejor-del-amor.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "cuarteteando",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Cuarteteando",
+        "spotify": "https://open.spotify.com/album/1pgpHPNNzmjBMal1NJsDub",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l4EPGyay2n23ItLoeC0bP97WieEUhNdWY&si=lEBp1LJDDampe_6h",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-cuarteteando.jpg"
     }
 ]
