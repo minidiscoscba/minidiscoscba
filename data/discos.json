@@ -1390,5 +1390,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-made-in-argentina.png"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "sabroso",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Sabroso",
+        "spotify": "https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n7BxHlc6CVLAmQukRr9P90R6v2vvguHl8&si=IT1ZdMVFO8-q7gxX",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-sabroso.jpg"
     }
 ]
