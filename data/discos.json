@@ -1544,5 +1544,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-cuartetero-y-cordobes.png"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "el-rodrigazo-mix",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "El Rodrigazo (Mix)",
+        "spotify": "https://open.spotify.com/album/4ZyFsoDroBoi3gW5hh50Gb",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kLWC3_iN_z5bdA-RGQhagFD4o9L8Yg6ug&si=HeWMEdz1B3REQF5o",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-el-rodrigazo-mix.jpg"
     }
 ]
