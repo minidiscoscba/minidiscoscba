@@ -1558,5 +1558,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-el-rodrigazo-mix.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "rodrigo-en-el-luna-park",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Rodrigo en el Luna Park",
+        "spotify": "https://open.spotify.com/album/70N2PW8KRYfwkjb9acU1mH",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kfgYFCo-At4bjJuXq8seBQOxgm7nA4Nxs&si=7eX3Aze7nCHbgtw4",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-rodrigo-en-el-luna-park.jpg"
     }
 ]
