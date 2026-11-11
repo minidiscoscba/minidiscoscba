@@ -1516,5 +1516,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-derroche.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "estrella-multicolor",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Estrella Multicolor",
+        "spotify": "https://open.spotify.com/album/0ge71Oso9vYSsqeGjERxdJ",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mZ3MWg2z15DncINNjEXzdlIV5L9sw8JIw&si=WP24esStFP2sJsxA",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-estrella-multicolor.jpg"
     }
 ]
