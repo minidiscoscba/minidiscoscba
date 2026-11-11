@@ -1642,5 +1642,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-la-pelicula.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "grandes-exitos-en-vivo",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Grandes Exitos (En Vivo)",
+        "spotify": "https://open.spotify.com/album/6Ot1b64vePWyN76IFVXR5G",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kxIO2cR2KGNSTiplafZNshPnG2OHS2nP0&si=0xPUr_yhhYlmuVxX",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-grandes-exitos-en-vivo.jpg"
     }
 ]
