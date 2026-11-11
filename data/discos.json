@@ -1446,5 +1446,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-cuarteteando.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "el-potro",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "El Potro",
+        "spotify": "https://open.spotify.com/album/1OPE9TRjwBdy3WLacRhYNX",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lHwP88NipaHcyYzzxRgOWB_RC1NQeF-KI&si=vcl2qIgvas-LsarE",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-el-potro.jpg"
     }
 ]
