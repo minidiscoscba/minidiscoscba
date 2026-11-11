@@ -1908,5 +1908,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-tropi-hits-vol-3.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "tropi-hits-el-mas-bailable",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Tropi Hits: El Mas Bailable",
+        "spotify": "https://open.spotify.com/intl-es/album/5m9q6uc6qT6x5v7494JqBf",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kbvSIMLpJJUnvt1uMUiqdfT4KdChwRh5M&si=CJWzrlKdjuJFumVk",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-tropi-hits-el-mas-bailable.jpeg"
     }
 ]
