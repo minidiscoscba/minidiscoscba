@@ -1670,5 +1670,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-grandes-exitos.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "rodrigo-vs-banda-xxi",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Rodrigo vs Banda XXI",
+        "spotify": "https://open.spotify.com/intl-es/album/1kRK9iYYOw7JYSZDDbGEQI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kdPIsz1Re5BzIbtxJ2XKFu8nTz2D1JES0&si=tPLtt2tFBPemuSF2",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-rodrigo-vs-banda-xxi.jpeg"
     }
 ]
