@@ -1502,5 +1502,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-la-mano-de-dios.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "derroche",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Derroche",
+        "spotify": "https://open.spotify.com/intl-es/album/6ucIibN9SkcKlcwofnWx8G",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mIxVNnYKGI1VkWPrAm-pzM87E0iuZcUdw&si=GyjgPK6ZhtlX8n3f",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-derroche.jpg"
     }
 ]
