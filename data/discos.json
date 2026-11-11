@@ -1824,5 +1824,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-60-minutos-de-cuarteto-vol-2.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "100-cuarteto-cordobes",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "100% Cuarteto Cordobes",
+        "spotify": "https://open.spotify.com/intl-es/album/3hc1GY13mjjZFgMYUAH0TW",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mb63l1jPkcgL5PwLTYLnVpiKYy2PaPQsg&si=mcX7udGtMXAnFdBv",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-100-cuarteto-cordobes.jpeg"
     }
 ]
