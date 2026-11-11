@@ -1614,5 +1614,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-su-historia-vol-iii.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "su-historia-vol-ii-unplugged",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Su Historia, Vol. II - Unplugged",
+        "spotify": "https://open.spotify.com/album/2sIRqqjJ58jfAaObVrrnii",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lJc8_N6Ctl5CD9BBCzcBWG-7Q20AvBWx8&si=Wv8aoH1sHMnjqvcm",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-su-historia-vol-ii-unplugged.jpg"
     }
 ]
