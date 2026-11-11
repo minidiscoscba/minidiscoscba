@@ -1838,5 +1838,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-100-cuarteto-cordobes.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "el-ranking-del-milenio-vol-1",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "El Ranking Del Milenio Vol. 1",
+        "spotify": "https://open.spotify.com/intl-es/album/2bPREi04jXJupfD2pBzstI",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l8n0lJrvydKab14tEINgHvWVhOQ02rcSc&si=4mHwI6U9C_erXcqi",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-el-ranking-del-milenio-vol-1.jpeg"
     }
 ]
