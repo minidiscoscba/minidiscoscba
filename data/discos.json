@@ -1726,5 +1726,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-memin-y-su-grupo-karakol-el-aguante.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "la-movida-tropical-los-100-mejores-temas-vol-1",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "La Movida Tropical: Los 100 Mejores Temas Vol. 1",
+        "spotify": "https://open.spotify.com/intl-es/album/4OCihuHpu2iMUUoqZkXB2u",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mOv90AuAl0iqvdx7WnOkSk2k10_JnJDRg&si=AKpfeJ4k743Adj0k",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-la-movida-tropical-los-100-mejores-temas-vol-1.jpeg"
     }
 ]
