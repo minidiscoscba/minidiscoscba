@@ -1586,5 +1586,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-su-historia-vol-5.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "su-historia-vol-iv",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Su Historia, Vol. IV",
+        "spotify": "https://open.spotify.com/album/6dbFqvk3t0b9DCV1zzXhdP",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l9HDwbtcZoowkm7lO2Ll9A5l2D4F6y96s&si=mBEr0IbqYsdShroK",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-su-historia-vol-iv.jpg"
     }
 ]
