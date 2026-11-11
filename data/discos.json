@@ -1418,5 +1418,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-la-leyenda-continua.png"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "lo-mejor-del-amor",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Lo mejor del amor",
+        "spotify": "https://open.spotify.com/album/2uLswZu2smP92ksrtaUxJk",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k0do9_O2wA8DKmNLa8LVrgDssA525IuxM&si=PegiOy-tE83ytF4n",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-lo-mejor-del-amor.jpg"
     }
 ]
