@@ -1950,5 +1950,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-tropi-hits-vol-4.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "boleros",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Boleros",
+        "spotify": "https://open.spotify.com/intl-es/album/175mHavQkYVK832Bg55fmO",
+        "youtube": "https://www.youtube.com/watch?v=zDmNon6M2cc",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-boleros.jpeg"
     }
 ]
