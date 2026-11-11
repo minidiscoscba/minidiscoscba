@@ -1754,5 +1754,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-cuarteto-vol-2-los-100-mejores-temas.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "increible-vol-3",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Increíble Vol. 3",
+        "spotify": "https://open.spotify.com/intl-es/album/02b1SfBoFHWEYYRZFRcLwt",
+        "youtube": "https://youtube.com/playlist?list=PLtVbBfL9ngiNCO17aUdqrTwcMb2X1i2EZ&si=UOWBtTTw8Fk-OBGS",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-increible-vol-3.jpeg"
     }
 ]
