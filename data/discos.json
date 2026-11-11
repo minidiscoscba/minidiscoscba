@@ -1530,5 +1530,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-estrella-multicolor.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "cuartetero-y-cordobes",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Cuartetero y Cordobés",
+        "spotify": "https://open.spotify.com/album/06dxibH6b2ZQJsDxLdW7o5",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mCYb8j4LfnZPuS6PXuVIKrX_t6TEPu1g0&si=ssyT6JmsTqQg-wM3",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-cuartetero-y-cordobes.png"
     }
 ]
