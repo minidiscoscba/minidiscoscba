@@ -1474,5 +1474,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-cuarteto-caracteristico-a2000.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "a-2000-cuarteto-caracteristico",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "A 2000 - Cuarteto Característico",
+        "spotify": "https://open.spotify.com/intl-es/album/20PWLBvxLIh1mo0Cq4tek3",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lYmzj0g3iQ3cWGnpNyRFov2IaCBkODlew&si=XfQ6nq_2HL8WUkmU",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-a-2000-cuarteto-caracteristico.png"
     }
 ]
