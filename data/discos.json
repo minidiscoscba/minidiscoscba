@@ -1768,5 +1768,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-increible-vol-3.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "sabados-tropicales",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Sabados Tropicales",
+        "spotify": "https://open.spotify.com/intl-es/album/2SlJiT2vv7NF0uYmzDVrKU",
+        "youtube": "https://youtube.cohttps//music.youtube.com/playlist?list=OLAK5uy_lGdbRbT9ry2dM7inP-Lh6q5QdJ2S51Q3w&si=DWiqCiyt6NH-IOAqm/playlist?list=PLtVbBfL9ngiNCO17aUdqrTwcMb2X1i2EZ&si=UOWBtTTw8Fk-OBGS",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-sabados-tropicales.jpeg"
     }
 ]
