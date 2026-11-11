@@ -1866,5 +1866,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-pasion-cuartetera.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "increible-vol-2",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Increible, Vol. 2",
+        "spotify": "https://open.spotify.com/intl-es/album/7DEeDPXE8aZ7VA2lWHri5A",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nji2h6iPts3wKNGbfUbaMFm2987U-UPAo&si=nJYgpn7XlGcDfVn_",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-increible-vol-2.jpeg"
     }
 ]
