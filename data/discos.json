@@ -1922,5 +1922,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-tropi-hits-el-mas-bailable.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "tropi-hits-vol-5",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Tropi Hits: Vol 5",
+        "spotify": "https://open.spotify.com/intl-es/album/66AQgKkfYRhK01NY2ubDXO",
+        "youtube": "https://www.youtube.com/watch?v=Qcf-ioV647A",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-tropi-hits-vol-5.jpeg"
     }
 ]
