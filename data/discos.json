@@ -1656,5 +1656,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-grandes-exitos-en-vivo.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "grandes-exitos",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Grandes Exitos",
+        "spotify": "https://open.spotify.com/album/3LGZUJGeBB8KC0bVOtmulA",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_moAP8v3vVxaEOMyxaXJnx443O3mvZ1tFA&si=r-zJITN2X46h3ctx",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-grandes-exitos.jpg"
     }
 ]
