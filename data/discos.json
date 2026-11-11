@@ -1628,5 +1628,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-su-historia-vol-ii-unplugged.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "la-pelicula",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "La Película",
+        "spotify": "https://open.spotify.com/album/1lJyXDD26WVBKmqWQrLWng",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kJGDS0sQiEGAO1oF01IEYUOL-h2v8Pka4&si=dvh1e6vFvHqo_GUs",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-la-pelicula.jpg"
     }
 ]
