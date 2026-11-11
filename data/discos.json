@@ -1404,5 +1404,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-sabroso.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "la-leyenda-continua",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "La leyenda continua",
+        "spotify": "https://open.spotify.com/album/0COtioXmoe1YCOIF1oPJpX",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mRfC7PRT1j3EciWJxBC6PlfH3vkdwlNos&si=up27Awup4GqKxt4w",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-la-leyenda-continua.png"
     }
 ]
