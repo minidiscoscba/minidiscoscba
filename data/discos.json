@@ -1852,5 +1852,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-el-ranking-del-milenio-vol-1.jpeg"
+    },
+    {
+        "artista": "artistas-varios",
+        "album": "pasion-cuartetera",
+        "nombreArtista": "Artistas Varios",
+        "nombreAlbum": "Pasión Cuartetera",
+        "spotify": "https://open.spotify.com/intl-es/album/5XExEXYKY3ON16D9HStCRs",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lO9P_jmgdYz4jyjQPlo0c9SRglXNcPej4&si=7AFYUf6FRg1Z5TH1",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/artistas-varios-pasion-cuartetera.jpeg"
     }
 ]
