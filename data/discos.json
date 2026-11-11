@@ -1964,5 +1964,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-boleros.jpeg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "rodrigo",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Rodrigo",
+        "spotify": "https://open.spotify.com/playlist/08Zc37t4tBACbzkwajDI9S",
+        "youtube": "https://music.youtube.com/playlist?list=PLPCaqwLNKY1g&si=HzxI-p_7voU0TZrm",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-rodrigo.jpeg"
     }
 ]
