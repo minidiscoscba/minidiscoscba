@@ -1698,5 +1698,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-rodrigo-y-la-mona-jimenez-2x1.jpeg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "grandes-exitos-2000",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Grandes Éxitos (2000)",
+        "spotify": "https://open.spotify.com/playlist/4E6gthLbw4dijsKhIzAoRv",
+        "youtube": "https://music.youtube.com/playlist?list=PLAMJiScxuccs&si=89IeouG4u3GF-MJE",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-grandes-exitos-2000.jpg"
     }
 ]
