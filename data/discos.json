@@ -1348,5 +1348,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/thalia-navidad-melancolica-deluxe.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "muy-bueno",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Muy Bueno",
+        "spotify": "https://open.spotify.com/album/6OCFk7SXuNKDo1ylk48qMp",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lZ7CZTf-X_oCbugoAGUnyXuYD4V5kNnOY&si=gU_TYmbgPxRJay0r",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-muy-bueno.png"
     }
 ]
