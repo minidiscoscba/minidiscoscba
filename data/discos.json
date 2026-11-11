@@ -1460,5 +1460,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-el-potro.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "cuarteto-caracteristico-a2000",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Cuarteto Característico (A2000)",
+        "spotify": "https://open.spotify.com/intl-es/album/20PWLBvxLIh1mo0Cq4tek3?si=JXtYhBcJQY6MnKoKMnzR6Q",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k39FGJp5xtbvRj_KyKp3M9UoQfTwe3KT8&si=mt1aoNnvrmBAtBHw",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-cuarteto-caracteristico-a2000.jpg"
     }
 ]
