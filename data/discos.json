@@ -1376,5 +1376,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-completamente-enamorado.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "made-in-argentina",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Made In Argentina",
+        "spotify": "https://open.spotify.com/album/1EY5VNGadoipi4vFtKGo7l",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l6TuSEnSumZCrRK9I9N8zKAOzk5SbaTus&si=pGKhf5NGD33sSahV",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-made-in-argentina.png"
     }
 ]
