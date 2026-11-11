@@ -1782,5 +1782,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/artistas-varios-sabados-tropicales.jpeg"
+    },
+    {
+        "artista": "la-autentica-banda-de-rodrigo",
+        "album": "seguimos-cuarteteando",
+        "nombreArtista": "La Autentica Banda de Rodrigo",
+        "nombreAlbum": "Seguimos Cuarteteando",
+        "spotify": "https://open.spotify.com/intl-es/album/18ZTXA3E9JHpUKOyudsFGE",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mW15Hib-U4nNXQLGEeqsiFbxBAx7YiJKo&si=tmHtYCCJlj2nMV4i",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/la-autentica-banda-de-rodrigo-seguimos-cuarteteando.jpeg"
     }
 ]
