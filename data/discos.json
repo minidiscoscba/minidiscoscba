@@ -1362,5 +1362,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-muy-bueno.png"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "completamente-enamorado",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Completamente Enamorado",
+        "spotify": "https://open.spotify.com/album/7qzC4jw5z30D75fd1I8Hi3",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mQvJ-JcoBQ6dwTCI0V-81sRydvKPL9dVI&si=aYAr3kwq0w0Gv_mz",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-completamente-enamorado.jpg"
     }
 ]
