@@ -1488,5 +1488,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-a-2000-cuarteto-caracteristico.png"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "la-mano-de-dios",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "La Mano de Dios",
+        "spotify": "https://open.spotify.com/album/7Jnt9oFruKI3lIXjp8u3CG",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lzuOU5gjPYAkgzNEpDmIdWFjhtweWVt2A&si=QyaeBVaThxu2FCN3",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-la-mano-de-dios.jpg"
     }
 ]
