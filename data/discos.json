@@ -1978,5 +1978,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-rodrigo.jpeg"
+    },
+    {
+        "artista": "la-840",
+        "album": "la-banda-del-potro",
+        "nombreArtista": "La 840",
+        "nombreAlbum": "La Banda del Potro",
+        "spotify": "https://open.spotify.com/intl-es/album/1AmoRBV64oeCyyOg40MAAl",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ke_drEHiowstQCl8sh8konQPKW36NQxLM&si=ojb4p2ZI_v1qNKA4",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/la-840-la-banda-del-potro.jpeg"
     }
 ]
