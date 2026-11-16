@@ -2062,5 +2062,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-aprendiendo-a-vivir.jpg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "la-foto-de-tu-cuerpo",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "La foto de tu cuerpo",
+        "spotify": "https://open.spotify.com/intl-es/artist/235Vf4hkmwvxjVEMuCbRxm",
+        "youtube": "https://youtube.com/playlist?list=PLkXRWwsq4jL_T4oN8r-RS3rijzxBZyE31&si=KbupXYmTC_C48yBR",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-la-foto-de-tu-cuerpo.jpg"
     }
 ]
