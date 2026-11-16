@@ -2048,5 +2048,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/varios-artistas-11-anos-de-la-movida-vol-2.jpeg"
+    },
+    {
+        "artista": "rodrigo",
+        "album": "aprendiendo-a-vivir",
+        "nombreArtista": "Rodrigo",
+        "nombreAlbum": "Aprendiendo a Vivir",
+        "spotify": "https://open.spotify.com/intl-es/artist/235Vf4hkmwvxjVEMuCbRxm",
+        "youtube": "https://youtube.com/playlist?list=PLtAG2X1e5aGhtKZqWj08TMj4Jk8ICvMIn&si=RtIjpr2eI3BXWWK3",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/rodrigo-aprendiendo-a-vivir.jpg"
     }
 ]
