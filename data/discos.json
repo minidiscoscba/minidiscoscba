@@ -2076,5 +2076,19 @@
         "facebook": "",
         "webOficial": "",
         "portada": "img/portadas/rodrigo-la-foto-de-tu-cuerpo.jpg"
+    },
+    {
+        "artista": "guns-n-roses",
+        "album": "greatest-hits",
+        "nombreArtista": "Guns N' Roses",
+        "nombreAlbum": "Greatest Hits",
+        "spotify": "https://open.spotify.com/intl-es/album/3Qf4H3NYSp3BMIRe6WOyOA",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l7Hs3PJjpSoB0r91uBoUGqbtSulyXeIAA&si=CZ9_qSfJmIKOcVxV&drli=1",
+        "modo": "habitual",
+        "instagramArtista": "",
+        "tiktok": "",
+        "facebook": "",
+        "webOficial": "",
+        "portada": "img/portadas/guns-n-roses-greatest-hits.jpg"
     }
 ]
